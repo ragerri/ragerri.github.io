@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "Rodrigo Agerri - Website"
+title: "Rodrigo Agerri - Ramon y Cajal Research Fellow"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-<p><small>"If it were not for the brute fact that the world contains more than five billion primates that are demonstrably able to produce and comprehend natural languages, mathematical linguists would long ago have been able to present convincing formal demonstrations that such production and comprehension was impossible" (Gerald Gazdar).</small></p>
-
 
 + Doctor in Computer Science (PhD), Department of Computing, City University London, May 2007.
 
@@ -58,6 +55,10 @@ I am Assistant Professor and researcher in Natural Language Processing at the [I
 + Reviewer, [Journal of Autonomous Agents and Multi-Agent Systems](http://link.springer.com/journal/10458), 2011.
 + Reviewer, [ACL-HLT 2011](http://aclweb.org/mirror/acl2011/).
 + Reviewer for the [Language Resources and Evaluation Journal](http://link.springer.com/journal/10579), Springer, 2010.
+
+--
+
+<p><small>"If it were not for the brute fact that the world contains more than five billion primates that are demonstrably able to produce and comprehend natural languages, mathematical linguists would long ago have been able to present convincing formal demonstrations that such production and comprehension was impossible" (Gerald Gazdar).</small></p>
 
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
