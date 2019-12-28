@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rodrigo Agerri"
+title                    : "Rodrigo Agerri - Website"
 title_separator          : "-"
 name                     : &name "Rodrigo Agerri"
 description              : &description "Ramon y Cajal Research Fellow, IXA Group, HiTZ Centre, University of the Basque Country UPV/EHU"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Rodrigo Agerri"
-  avatar           : "really.jpg"
-  bio              : "Ramon y Cajal Research Fellow, UPV/EHU"
+  avatar           : "rag.jpg"
+  bio              : "Ramon y Cajal Research Fellow"
   location         : "Donostia-San Sebastián"
-  employer         :
+  employer         : IXA Group, HiTZ Centre, UPV/EHU
   pubmed           :
   googlescholar    : "https://scholar.google.es/citations?user=1SJh0a8AAAAJ&hl=en"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rodrigo-agerri-0678616/"
+  linkedin         : "rodrigo-agerri-0678616"
   orcid            : "https://orcid.org/0000-0002-7303-7598"
   pinterest        :
   soundcloud       :
