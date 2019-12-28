@@ -1,50 +1,63 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Rodrigo Agerri - Website"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<p><small>"If it were not for the brute fact that the world contains more than five billion primates that are demonstrably able to produce and comprehend natural languages, mathematical linguists would long ago have been able to present convincing formal demonstrations that such production and comprehension was impossible" (Gerald Gazdar).</small></p>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
++ Doctor in Computer Science (PhD), Department of Computing, City University London, May 2007.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I am Assistant Professor and researcher in Natural Language Processing at the [IXA Group](http://ixa.eus) of the [University of the Basque Country](http://www.ehu.eus). My current interests are focused on NLP problems related to Computational Semantics, and especially on techniques for Information Extraction and Opinion Mining. I am the creator and main developer of the [IXA pipes](http://ixa2.si.ehu.es/ixa-pipes), a set of ready to use of multilingual NLP tools distributed under Apache License 2.0. I am also a Project Management Commitee member and Committer at the [Apache OpenNLP project](http://opennlp.apache.org) of the [Apache Software Foundation](http://apache.org).
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. [Short Bio](#bio)
+2. [Projects](#projects)
+3. [Peer review activities](#review)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Short Bio {#bio}
 
-**Markdown generator**
++ April 2018-present: Assistant Professor, Department of Computer Systems and Languages (LSI), University of the Basque Country UPV/EHU.
++ January 2012-April 2018: Research Fellow at [IXA NLP Group](http://ixa.eus). [University of the Basque Country](http://www.ehu.eus).
++ May 2011-January 2012: Researcher in Computational Linguistics at [University of Deusto](http://www.deusto.es), Bilbao, Basque Country.
++ November 2009-May 2011: Project Manager in Computational Linguistics at [Vicomtech-IK4](http://www.vicomtech.org).
++ January-October 2009: Research Fellow, GSI Group, [Universidad Politécnica de Madrid](http://www.upm.es) (UPM), Madrid, Spain, Consorcio Mavir. Research on Computational Semantics, Sentiment Analysis and application of linguistic techniques for Information Retrieval.
++ December 2005-December 2008, Research Fellow, [School of Computer Science](http://www.cs.bham.ac.uk), [University of Birmingham](http://www.bham.ac.uk), B15 2TT Birmingham, UK. Research on Computational Semantics and Figurative Language.
++ 2002-2006 Research Student and Lab Tutor, [Department of Computing](https://www.city.ac.uk/department-computer-science), [City University](http://www.city.ac.uk), EC1V 0HB London, UK. Research on normative aspects of language for the specification of normative protocols of communication. (PhD Thesis).
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Participation in Research Projects {#projects}
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
++ Research in the [NewsReader project: Building structured event Indexes of large volumes of financial and economic Data for Decision Making](http://www.newsreader-project.eu/), funded by the Grant agreement no.: 316404 – Co-funded by the EU - FP7 Work Programme Call FP7-ICT-2011-8
++ Working on the [OpeNER project: Open Polarity Enhanced Named Entity Recognition](http://www.opener-project.eu/), funded by the FP7-2011-ICT-SME-DCL call on Sharing Language Resources.
++ Researcher in the [SKATER project](http://nlp.lsi.upc.edu/skater/): Grant agreement TIN2012-38584-C06-01 funded by the Spanish Ministry of Science and Innovation.
++ Researcher in the [PATHS Project: Personalised Access to Cultural Heritage Spaces](http://www.paths-project.eu/). PATHS was funded by the European Commission FP7 under Digital Libraries and Digital Preservation programme  which started on January 1st 2010 and run for three years.
++ Consultant at [Vicomtech-IK4](http://www.vicomtech.org) for the [SUMAT CIP-ICT-PSP 270919 European project](http://www.sumat-project.eu/) (2011-2012).
++ Technical Coordinator of [SUMAT CIP-ICT-PSP 270919 European project](http://www.sumat-project.eu/).
++ Torres Quevedo Contract: Aplicación del Procesamiento del Lenguage Natural a la Innovación Empresarial. (2010-2011).
++ Previous research projects: [Etortek Berbatek](http://www.spri.eus/euskadinnova/es/innovacion-tecnologica/noticias/berbatek-aspecto-practico-tecnologias-linguisticas-multimedia/8427.aspx), [MAVIR](http://mavir2006.mavir.net/), [ESRC/EPSRC E-drama](http://www.cs.bham.ac.uk/research/projects/edrama/), EPSRC [ATT-Meta](http://www.cs.bham.ac.uk/~jab/ATT-Meta/)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## Reviewing Activities {#review}
 
-For more info
++ Committee Member at the [International Conference on Computational Semantics](http://iwcs2015.github.io/) (IWCS 2015).
++ Reviewer for [Knowledge Based Systems](http://www.journals.elsevier.com/knowledge-based-systems/)
++ Reviewer for [IEEE Inteligent Systems](http://www.computer.org/web/computingnow/intelligentsystems)
++ Reviewer for the journal [Artificial Intelligence Review](http://link.springer.com/journal/10462)
++ Reviewer for the [Journal of Artificial Intelligence Research](http://www.jair.org/) (JAIR)
++ Committee Member of [WNCP 2015 workshop](http://wordpress.let.vupr.nl/nlpapplications/)
++ [KESA 2016 Committee Member](http://www.iaria.org/conferences2016/KESA.html)
++ Scientific Committee, [The 9th edition of the Language Resources and Evaluation Conference, 26-31 May, Reykjavik, Iceland](http://lrec2014.lrec-conf.org/en/).
++ Program Committee, 5th International Workshop on EMOTION, SOCIAL SIGNALS, SENTIMENT & LINKED OPEN DATA, at the 9th edition of the Language Resources and Evaluation Conference, 26-31 May, Reykjavik, Iceland.
++ Scientific Committee, [The eighth international conference on Language Resources and Evaluation](http://www.lrec-conf.org/lrec2012/) (LREC 2012), 21-27 Mayo 2012, Istanbul, Turkey.
++ Reviewer, [13th International Conference on Intelligent Text Processing and Computational Linguistics](http://www.cicling.org/2012) (Cicling-2012), March 11-17, 2012, New Delhi, India.
++ Reviewer, [6th Global WordNet Conference](http://lang.cs.tut.ac.jp/gwc2012/) 2012 (GWC 2012), 9-13 January, Matsue, Japan.
++ Program Committee Member, Semantics Track, [EMNLP 2011](http://conferences.inf.ed.ac.uk/emnlp2011/)
++ Reviewer, [Journal of Autonomous Agents and Multi-Agent Systems](http://link.springer.com/journal/10458), 2011.
++ Reviewer, [ACL-HLT 2011](http://aclweb.org/mirror/acl2011/).
++ Reviewer for the [Language Resources and Evaluation Journal](http://link.springer.com/journal/10579), Springer, 2010.
+
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
