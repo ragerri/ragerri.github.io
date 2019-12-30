@@ -41,9 +41,9 @@ We address the OTE task as a sequence labeling problem. We use the [ixa-pipe-opi
 
 + Software and models: [http://ixa2.si.ehu.es/ixa-pipes](http://ixa2.si.ehu.es/ixa-pipes)
 
-If you use the system, please the following paper:
+### Citation:
 
-+ I. San Vicente, X. Saralegi and R. Agerri (2015) [EliXa: A modular and flexible ABSA platform](https://aclweb.org/anthology/S/S15/S15-2127.pdf), in Proceedings of the 9th International Workshop on Semantic Evaluation (SemEval 2015), Denver, USA, pp. 748-752, 2015
++ Rodrigo Agerri, German Rigau, [Language independent sequence labelling for Opinion Target Extraction](https://www.sciencedirect.com/science/article/abs/pii/S0004370218307392). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 268 (2019) 85-95.
 
 ## QWN-PPV: Q-WordNet via Personalized PageRank {#qwn-ppv}
 
@@ -53,7 +53,11 @@ The extrinsic evaluations performed show that qwn-ppv outperforms other automati
 
 Our method is easily applicable to create qwn-ppv(s) other languages, and we demonstrate it by providing polarity lexicons for English and Spanish. The qwn-ppv method allows to easily create quality polarity lexicons whenever no domain-based annotated corpora are available for a given language.
 
-+ Read the paper [QWN-PPV: Simple, Robust and Unsupervised Generation of Polarity Lexicons for Multiple Languages](https://aclweb.org/anthology/E/E14/E14-1010.pdf).
 + Get English and Spanish QWN-PPV lexicons cited in the paper: [http://adimen.si.ehu.es/web/qwn-ppv](http://adimen.si.ehu.es/web/qwn-ppv)
 + Get the software from github: [https://github.com/ixa-ehu/qwn-ppv](https://github.com/ixa-ehu/qwn-ppv)
+
+### Citation:
+
++ Iñaki San Vicente, Rodrigo Agerri and German Rigau (2014): [Simple, Robust and (almost) Unsupervised Generation of Polarity Lexicons for Multiple Languages](http://aclweb.org/anthology/E/E14/E14-1010.pdf). In Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL2014), April 26-30, 2014, Gothenburg, Sweden.
+
 
