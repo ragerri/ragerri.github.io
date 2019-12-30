@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -13,24 +13,27 @@ redirect_from:
 
 {% include base_path %}
 
+## 2019
 
-# Selected Publications
++ Rodrigo Agerri, German Rigau, [Language independent sequence labelling for Opinion Target Extraction](https://www.sciencedirect.com/science/article/abs/pii/S0004370218307392). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 268 (2019) 85-95. JCR: 4.797 (Q1) [Preprint PDF](http://www.rodrigoagerri.net/files/ote-absa-ixa-v03.pdf)
 
-Translation: John Perry, [Referencialismo critico. La teoria reflexivo-referencial del significado](http://web.stanford.edu/group/cslipublications/cslipublications/pdf/1575865289-refbook.pdf). Stanford: CSLI Publications, 2006. Translated by Kepa Korta and Rodrigo Agerri.
++ Joseba Fernandez de Landa, Rodrigo Agerri, Iñaki Alegria (2019). [Large Scale Linguistic Processing of Tweets to Understand Social Interactions among Speakers of Less Resourced Languages: The Basque Case](https://www.mdpi.com/2078-2489/10/6/212/htm). Information 10(6): 212 (2019). [PDF](https://www.mdpi.com/2078-2489/10/6/212/pdf)
+
++ Rodrigo Agerri (2019). [Doris Martin at SemEval-2019 Task 4: Hyperpartisan News Detection with Generic Semi-supervised Features](https://www.aclweb.org/anthology/S19-2161.pdf). [SemEval@NAACL-HLT 2019](http://alt.qcri.org/semeval2019/): 944-948.
 
 ## 2018
-
-+ Rodrigo Agerri, German Rigau, [Language independent sequence labelling for Opinion Target Extraction](https://authors.elsevier.com/a/1YD9w-c5Jqz0). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 268 (2018) 85-95. JCR 2017: 4.797 (Q1) <!--- [Preprint PDF](http://www.rodrigoagerri.net/papers/ote-absa-ixa-v03.pdf)--->
-
-+ Rodrigo Agerri, Núria Bel, German Rigau, Horacio Saggion (2018). TUNER: Multifaceted Domain Adaptation for Advanced Textual Semantic Processing. First Results Available. In Proceedings of the 34th Annual Meeting of Sociedad Española para el Procesamiento del Lenguaje Natural (SEPLN 2018), Sevilla, Spain.
-
-+ Rodrigo Agerri and German Rigau (2018). Simple Language Independent Sequence Labelling for the Annotation of Disabilities in Medical Texts. In [Proceedings of the Workshop on Evaluation of Human Language Technologies for Iberian Languages (IberEval 2018)](https://sites.google.com/view/ibereval-2018), [Diann Track](http://nlp.uned.es/diann/), Sevilla, Spain.
 
 + Rodrigo Agerri, Yiling Chung, Itziar Aldabe, Nora Aranberri, Gorka Labaka and German Rigau (2018). [Building Named Entity Recognition Taggers via Parallel Corpora](http://www.lrec-conf.org/proceedings/lrec2018/pdf/965.pdf). In [Proceedings of the 11th Language Resources and Evaluation Conference (LREC 2018)](http://lrec2018.lrec-conf.org/en/), 7-12 May, 2018, Miyazaki, Japan.
 
 + Rodrigo Agerri, Xavier Gómez Guinovart, German Rigau and Miguel Anxo Solla Portela (2018). [Developing New Linguistic Resources and Tools for the Galician Language](http://www.lrec-conf.org/proceedings/lrec2018/pdf/848.pdf). In [Proceedings of the 11th Language Resources and Evaluation Conference (LREC 2018)](http://lrec2018.lrec-conf.org/en/), 7-12 May, 2018, Miyazaki, Japan.
 
 + Noelia Migueles-Abraira, Rodrigo Agerri and Arantza Diaz de Ilarraza (2018). [Annotating Abstract Meaning Representations for Spanish](http://www.lrec-conf.org/proceedings/lrec2018/pdf/743.pdf). In [Proceedings of the 11th Language Resources and Evaluation Conference (LREC 2018)](http://lrec2018.lrec-conf.org/en/), 7-12 May, 2018, Miyazaki, Japan.
+
++ Rodrigo Agerri, Núria Bel, German Rigau, Horacio Saggion (2018). TUNER: Multifaceted Domain Adaptation for Advanced Textual Semantic Processing. First Results Available. Procesamiento del Lenguaje Natural 61: 163-166 (2018).
+
++ Rodrigo Agerri, Montse Maritxalar, Verena Lyding, Lionel Nicolas (2018). enetCollect: A New European Network for combining Language Learning with Crowdsourcing Techniques. Procesamiento del Lenguaje Natural 61: 171-174 (2018).
+
++ Rodrigo Agerri and German Rigau (2018). Simple Language Independent Sequence Labelling for the Annotation of Disabilities in Medical Texts. In [Proceedings of the Workshop on Evaluation of Human Language Technologies for Iberian Languages (IberEval 2018)](https://sites.google.com/view/ibereval-2018), [Diann Track](http://nlp.uned.es/diann/), Sevilla, Spain.
 
 ## 2017
 
@@ -75,3 +78,7 @@ Translation: John Perry, [Referencialismo critico. La teoria reflexivo-referenci
 + M. Volk, A. del Pozo, R. Agerri (2010). [Multilingual subtitling in the age of Google Translate](http://www.rodrigoagerri.net/papers/languagemedia10.pdf). Language and the Media Conference, Berlin, 6-8 October, 2010.
 + Rodrigo Agerri (2008). [Metaphor in Textual Entailment](http://www.aclweb.org/anthology/C/C08/C08-2001.pdf). Companion Proceedings of the 22nd International Conference on Computational Linguistics (Coling 2008), Manchester, UK, pages 2-6.
 + R. Agerri, J.A. Barnden, M.G. Lee and A.M. Wallington (2007). [Metaphor, Inference and Domain Independent Mappings](http://www.rodrigoagerri.net/papers/ranlp07.pdf). Proceedings of the Research Advances in Natural Language Processing Conference (RANLP-07), Borovets, Bulgaria, 27-29 September 2007.
+
+## Book translation
+
+John Perry, [Referencialismo critico. La teoria reflexivo-referencial del significado](http://web.stanford.edu/group/cslipublications/cslipublications/pdf/1575865289-refbook.pdf). Stanford: CSLI Publications, 2006. Translated by Kepa Korta and Rodrigo Agerri.
