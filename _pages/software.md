@@ -21,21 +21,21 @@ redirect_from:
 
 ### How to cite:
 
-If you use *ixa-pipe-nerc for Named Entity Recognition*:
+If you use **ixa-pipe-nerc** for Named Entity Recognition:
 
 + R. Agerri, G. Rigau, [Robust multilingual Named Entity Recognition with shallow semi-supervised features](http://authors.elsevier.com/a/1T5qP-c5CB15). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 238 (2016) 63-82.
 
-If you use *ixa-pipe-opinion* for Opinion Mining, please use this reference:
+If you use **ixa-pipe-opinion** for Opinion Mining, please use this reference:
 
 + Rodrigo Agerri, German Rigau, [Language independent sequence labelling for Opinion Target Extraction](https://www.sciencedirect.com/science/article/abs/pii/S0004370218307392). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 268 (2019) 85-95.
 
-If you use *other* IXA pipes tools or just the models, please cite this paper:
+If you use **other** IXA pipes tools or just the models, please cite this paper:
 
 + Rodrigo Agerri, Josu Bermudez and German Rigau (2014): [IXA pipes: Efficient and Ready to Use Multilingual NLP tools](http://www.lrec-conf.org/proceedings/lrec2014/pdf/775_Paper.pdf). In Proceedings of the 9th Language Resources and Evaluation Conference (LREC2014), 26-31 May, 2014, Reykjavik, Iceland.
 
 ## Opinion Target Extraction at SemEval 2015 {#ote}
 
-We participated in [Aspect Based Sentiment Analysis task](http://alt.qcri.org/semeval2015/task12/) at [SemeEval 2015](http://alt.qcri.org/semeval2015/), obtaining *best results in the Opinion Target Extraction (OTE) subtask*.
+We participated in [Aspect Based Sentiment Analysis task](http://alt.qcri.org/semeval2015/task12/) at [SemeEval 2015](http://alt.qcri.org/semeval2015/), obtaining **best results in the Opinion Target Extraction (OTE) subtask**.
 
 We address the OTE task as a sequence labeling problem. We use the [ixa-pipe-opinion](http://ixa2.si.ehu.es/ixa-pipes) system off-the-shelf to train our OTE models.
 
