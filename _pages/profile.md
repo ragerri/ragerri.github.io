@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-+ Doctor in Computer Science (PhD), City, University of London, 2007.
+Doctor in Computer Science (PhD), City, University of London, 2007.
 
 1. [Short Bio](#bio)
 2. [Projects](#projects)

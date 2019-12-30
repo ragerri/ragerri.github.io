@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Presentation"
+title: "Kaixo/Hello!"
 excerpt: "About"
 author_profile: true
 redirect_from:
@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 
-I am Ramon y Cajal Research Fellow in Natural Language Processing at the [IXA Group](http://ixa.eus) and [HiTZ Centre](http://hitz.eus) of the [University of the Basque Country](http://www.ehu.eus). My current interests are focused on NLP problems related to Computational Semantics, and especially on techniques for Information Extraction, Opinion Mining and fake news detection. I am the creator and main developer of [IXA pipes](http://ixa2.si.ehu.es/ixa-pipes), a set of ready to use of multilingual NLP tools distributed under Apache License 2.0. I am also a Project Management Commitee member and Committer at the [Apache OpenNLP project](http://opennlp.apache.org) of the [Apache Software Foundation](http://apache.org).
+I am Ramon y Cajal Research Fellow (tenure-track) at the [IXA Group](http://ixa.eus), part of the [HiTZ Centre](http://hitz.eus) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus). PhD in Computer Science at City, University of London (2007), I have since been working on Natural Language Processing at several British and Spanish institutions, including a two year stint at the industry as research project director. I have been involved in more than 20 research projects funded by the European Commission, UK research councils, Spanish Ministry of Science and Basque Goverment. I was technical coordinator of the European project SUMAT and got awarded a Torres Quevedo Research Fellowship. Recently I have been PI of an H2020 OPENMINTED Call Phase II project and WG leader within the enetCollect COST action. Currently I am Co-IP (with German Rigau) of "DeepReading", a project funded by the Spanish Ministry of Science.
+
+Currently my research is focused on information extraction, opinion mining and fake news detection, especially in multilingual and cross-lingual approaches. I am the creator and main developer of IXA pipes (http://ixa2.si.ehu.es/ixa-pipes), a set of ready to use multilingual tools for linguistic processing. I am also PMC and committer in the OpenNLP project of the Apache Software Foundation. Due to this association he has been a mentor in the Google Summer of Code (GSOC).
 
 ## Latest News
 
-+ 
++
 
 ## Final Word
 
