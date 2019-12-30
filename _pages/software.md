@@ -33,7 +33,7 @@ If you use **other** IXA pipes tools or just the models, please cite this paper:
 
 + Rodrigo Agerri, Josu Bermudez and German Rigau (2014): [IXA pipes: Efficient and Ready to Use Multilingual NLP tools](http://www.lrec-conf.org/proceedings/lrec2014/pdf/775_Paper.pdf). In Proceedings of the 9th Language Resources and Evaluation Conference (LREC2014), 26-31 May, 2014, Reykjavik, Iceland.
 
-## Opinion Target Extraction at SemEval 2015 {#ote}
+## Opinion Target Extraction {#ote}
 
 We participated in [Aspect Based Sentiment Analysis task](http://alt.qcri.org/semeval2015/task12/) at [SemeEval 2015](http://alt.qcri.org/semeval2015/), obtaining **best results in the Opinion Target Extraction (OTE) subtask**.
 

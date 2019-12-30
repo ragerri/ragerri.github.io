@@ -17,7 +17,7 @@ redirect_from:
 5. [ILF-WN: Intermediate Logic Forms from WordNet glosses](#ilf-wn)
 6. [Q-WordNet: Extracting polarity from WordNet senses](#qwn)
 
-## [Catalonia Independence Corpus (CIC) {#cic}](https://github.com/ixa-ehu/catalonia-independence-dataset)
+## Catalonia Independence Corpus (CIC) {#cic}
 
 Two datasets in Spanish (CIC-ES) and Catalan (CIC-CA) consisting of annotated Twitter messages for **automatic stance detection**. The data was collected 12 days during February and March of 2019. The corpus is annotated with three classes: AGAINST, FAVOR and NEUTRAL, which express stance towards the target, namely, the independence of Catalonia.
 
