@@ -71,7 +71,7 @@ redirect_from:
 + Volha Petukhova, Rodrigo Agerri, Mark Fishel, Sergio Penkale, Arantza del Pozo, Mirjam Sepesy Maucec, Andy Way, Panayota Georgakopoulou and Martin Volk (2012). [SUMAT: Data Collection and Parallel Corpus Compilation for Machine Translation of Subtitles](http://www.lrec-conf.org/proceedings/lrec2012/pdf/154_Paper.pdf). In the Proceedings of the 7th International Conference on Language Resources and Evaluation (LREC 2012), Istanbul, Turkey, 2012.
 + A.M. Wallington, R. Agerri, J.A. Barnden, M.G. Lee, T. Rumbell (2011). [Affect Transfer by Metaphor for an Intelligent Conversational Agent](http://www.rodrigoagerri.net/papers/Emot08final.pdf). In K. Ahmad (ed.), Affective Computing and Sentiment Analysis: Metaphor, Ontology, Affect and Terminology. Text, Speech and Language Technology Series, pages 61-74, ISBN 978-94-007-1756-5, Springer, Heidelberg.
 
-## 2010
+## 2010 and before
 
 + Rodrigo Agerri and Ana Garcia-Serrano (2010). [Q-WordNet: Extracting polarity from WordNet senses](http://www.rodrigoagerri.net/papers/qwn.pdf). In the Proceedings of the 7th International Conference on Language Resources and Evaluation (LREC 2010), Malta, May 2010.
 + Rodrigo Agerri and Anselmo Peñas (2010). [On the Automatic Generation of Intermediate Logic Form for WordNet glosses](http://www.rodrigoagerri.net/papers/ilf.pdf). 11th International Conference on Intelligent Text Processing and Computational Linguistics (Cicling-2010), Iasi, Romania, 21-27 March. LNCS Volume 6008 by Springer.
