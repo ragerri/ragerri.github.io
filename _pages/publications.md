@@ -15,9 +15,9 @@ redirect_from:
 
 ## 2019
 
-+ Rodrigo Agerri, German Rigau, [Language independent sequence labelling for Opinion Target Extraction](https://www.sciencedirect.com/science/article/abs/pii/S0004370218307392). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 268 (2019) 85-95. JCR: 4.797 (Q1) [Preprint PDF](http://www.rodrigoagerri.net/files/ote-absa-ixa-v03.pdf)
++ Rodrigo Agerri, German Rigau, [Language independent sequence labelling for Opinion Target Extraction](https://www.sciencedirect.com/science/article/abs/pii/S0004370218307392). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 268 (2019) 85-95. JCR: 4.797 (Q1). [Preprint PDF](https://ragerri.github.io/files/ote-absa-ixa-v03.pdf) [https://doi.org/10.1016/j.artint.2018.12.002](https://doi.org/10.1016/j.artint.2018.12.002)
 
-+ Joseba Fernandez de Landa, Rodrigo Agerri, Iñaki Alegria (2019). [Large Scale Linguistic Processing of Tweets to Understand Social Interactions among Speakers of Less Resourced Languages: The Basque Case](https://www.mdpi.com/2078-2489/10/6/212/htm). Information 10(6): 212 (2019). [PDF](https://www.mdpi.com/2078-2489/10/6/212/pdf)
++ Joseba Fernandez de Landa, Rodrigo Agerri, Iñaki Alegria (2019). [Large Scale Linguistic Processing of Tweets to Understand Social Interactions among Speakers of Less Resourced Languages: The Basque Case](https://www.mdpi.com/2078-2489/10/6/212/htm). Information 10(6): 212 (2019). [PDF](https://www.mdpi.com/2078-2489/10/6/212/pdf) [https://doi.org/10.3390/info10060212](https://doi.org/10.3390/info10060212)
 
 + Rodrigo Agerri (2019). [Doris Martin at SemEval-2019 Task 4: Hyperpartisan News Detection with Generic Semi-supervised Features](https://www.aclweb.org/anthology/S19-2161.pdf). [SemEval@NAACL-HLT 2019](http://alt.qcri.org/semeval2019/): 944-948.
 
@@ -29,55 +29,66 @@ redirect_from:
 
 + Noelia Migueles-Abraira, Rodrigo Agerri and Arantza Diaz de Ilarraza (2018). [Annotating Abstract Meaning Representations for Spanish](http://www.lrec-conf.org/proceedings/lrec2018/pdf/743.pdf). In [Proceedings of the 11th Language Resources and Evaluation Conference (LREC 2018)](http://lrec2018.lrec-conf.org/en/), 7-12 May, 2018, Miyazaki, Japan.
 
-+ Rodrigo Agerri, Núria Bel, German Rigau, Horacio Saggion (2018). TUNER: Multifaceted Domain Adaptation for Advanced Textual Semantic Processing. First Results Available. Procesamiento del Lenguaje Natural 61: 163-166 (2018).
++ Rodrigo Agerri, Núria Bel, German Rigau, Horacio Saggion (2018). [TUNER: Multifaceted Domain Adaptation for Advanced Textual Semantic Processing. First Results Available.](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/download/2018-61-23/3396) Procesamiento del Lenguaje Natural 61: 163-166 (2018). [http://dx.doi.org/10.26342/2018-61-23](http://dx.doi.org/10.26342/2018-61-23)
 
-+ Rodrigo Agerri, Montse Maritxalar, Verena Lyding, Lionel Nicolas (2018). enetCollect: A New European Network for combining Language Learning with Crowdsourcing Techniques. Procesamiento del Lenguaje Natural 61: 171-174 (2018).
++ Rodrigo Agerri, Montse Maritxalar, Verena Lyding, Lionel Nicolas (2018). [enetCollect: A New European Network for combining Language Learning with Crowdsourcing Techniques.](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/download/2018-61-25/3398). Procesamiento del Lenguaje Natural 61: 171-174 (2018). [http://dx.doi.org/10.26342/2018-61-25](http://dx.doi.org/10.26342/2018-61-25)
 
 + Rodrigo Agerri and German Rigau (2018). Simple Language Independent Sequence Labelling for the Annotation of Disabilities in Medical Texts. In [Proceedings of the Workshop on Evaluation of Human Language Technologies for Iberian Languages (IberEval 2018)](https://sites.google.com/view/ibereval-2018), [Diann Track](http://nlp.uned.es/diann/), Sevilla, Spain.
 
 ## 2017
 
-+ Egoitz Laparra, Rodrigo Agerri, Itziar Aldabe, German Rigau. [Multi-lingual and Cross-lingual timeline extraction](http://www.sciencedirect.com/science/article/pii/S0950705117303192). [Knowledge-Based Systems](http://www.journals.elsevier.com/knowledge-based-systems), 133, 77-89, 2017. JCR 2016: 3.325 (Q1). [https://doi.org/10.1016/j.knosys.2017.07.002](https://doi.org/10.1016/j.knosys.2017.07.002)
++ Egoitz Laparra, Rodrigo Agerri, Itziar Aldabe, German Rigau. [Multi-lingual and Cross-lingual timeline extraction](http://www.sciencedirect.com/science/article/pii/S0950705117303192). [Knowledge-Based Systems](http://www.journals.elsevier.com/knowledge-based-systems), 133, 77-89, 2017. JCR 2016: 3.325 (Q1). [Preprint PDF](https://ragerri.github.io/files/timelines-kbs-2017.pdf) [https://doi.org/10.1016/j.knosys.2017.07.002](https://doi.org/10.1016/j.knosys.2017.07.002)
 
 + Rodrigo Agerri and German Rigau. [Robust Multilingual Named Entity Recognition with Shallow Semi-supervised Features](https://www.ijcai.org/proceedings/2017/0703.pdf). [In Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17)](https://www.ijcai.org/proceedings/2017/), 4965-4970, Melbourne, Australia.
 
 + Rodrigo Agerri and German Rigau. [Applying Existing Named Entity Taggers at BARR IBEREVAL 2017 Task](http://ceur-ws.org/Vol-1881/BARR2017_paper_4.pdf). [In Proceedings of the Second Workshop on Evaluation of Human Language Technologies for Iberian Languages (IberEval 2017)](http://ceur-ws.org/Vol-1881/)
 
-+ Rodrigo Agerri, Itziar Aldabe, Nora Aranberri, Yiling Chung, Gorka Labaka and German Rigau. [Automatic Generation of Named Entity Recognition Taggers Using Parallel Corpora](http://www.rodrigoagerri.net/papers/tuner.pdf). [In Proceedings of TUNER at SEPLN 2017](http://sepln2017.um.es/turner.html).
++ Rodrigo Agerri, Itziar Aldabe, Nora Aranberri, Yiling Chung, Gorka Labaka and German Rigau. [Automatic Generation of Named Entity Recognition Taggers Using Parallel Corpora](https://ragerri.github.io/files/tuner.pdf). [In Proceedings of TUNER at SEPLN 2017](http://sepln2017.um.es/turner.html).
 
 ## 2016
 
-+ R. Agerri, G. Rigau, [Robust multilingual Named Entity Recognition with shallow semi-supervised features](http://authors.elsevier.com/a/1T5qP-c5CB15). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 238 (2016) 63-82. JCR 2015: 3.371 (Q1). [http://dx.doi.org/10.1016/j.artint.2016.05.003](http://dx.doi.org/10.1016/j.artint.2016.05.003) <!---[Preprint PDF](http://www.rodrigoagerri.net/papers/accepted-ixa-pipe-nerc.pdf)--->
++ R. Agerri, G. Rigau, [Robust multilingual Named Entity Recognition with shallow semi-supervised features](http://authors.elsevier.com/a/1T5qP-c5CB15). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 238 (2016) 63-82. JCR 2015: 3.371 (Q1). [http://dx.doi.org/10.1016/j.artint.2016.05.003](http://dx.doi.org/10.1016/j.artint.2016.05.003) [Preprint PDF](https://ragerri.github.io/files/accepted-ixa-pipe-nerc.pdf)
 
-+ Piek Vossen, Rodrigo Agerri, Itziar Aldabe, Agata Cybulska, Marieke van Erp, Antske Fokkens, Egoitz Laparra, Anne-Lyse Minard, Alessio Palmero Aprosio, German Rigau, Marco Rospocher, Roxane Segers, [NewsReader: Using knowledge resources in a cross-lingual reading machine to generate more knowledge from massive streams of news](http://www.sciencedirect.com/science/article/pii/S0950705116302271). [Knowledge-Based Systems](http://www.journals.elsevier.com/knowledge-based-systems), 110 (2016), 60-85. JCR 2015: 3.325 (Q1). [http://dx.doi.org/10.1016/j.knosys.2016.07.013](http://dx.doi.org/10.1016/j.knosys.2016.07.013)
++ Piek Vossen, Rodrigo Agerri, Itziar Aldabe, Agata Cybulska, Marieke van Erp, Antske Fokkens, Egoitz Laparra, Anne-Lyse Minard, Alessio Palmero Aprosio, German Rigau, Marco Rospocher, Roxane Segers, [NewsReader: Using knowledge resources in a cross-lingual reading machine to generate more knowledge from massive streams of news](http://www.sciencedirect.com/science/article/pii/S0950705116302271). [Knowledge-Based Systems](http://www.journals.elsevier.com/knowledge-based-systems), 110 (2016), 60-85. JCR 2015: 3.325 (Q1). [http://dx.doi.org/10.1016/j.knosys.2016.07.013](http://dx.doi.org/10.1016/j.knosys.2016.07.013) [PDF](https://www.sciencedirect.com/science/article/pii/S0950705116302271/pdfft?isDTMRedir=true&download=true)
 
 + Agerri A., Aldabe I., Laparra E., Rigau G., Fokkens A., Huijgen P., van Erp M., Izquierdo R., Vossen P., Minard A. and Magnini B. Multilingual Event Detection using the NewsReader pipelines. Workshop on Cross-Platform Text Mining and Natural Language Processing Interoperability at the 10th Language Resources and Evaluation Conference (LREC'16). Portorož, Slovenia. 2016.
 
 ## 2015
 
-+ Agerri, R., Artola X., Beloki Z., Rigau G. and Soroa A. [Big Data for Natural Language Processing: A Streaming Approach](http://www.sciencedirect.com/science/article/pii/S0950705114003992). [Knowledge-Based Systems](http://www.journals.elsevier.com/knowledge-based-systems). Volume 79, May 2015, Pages 36-42, ISSN 0950-7051. 2015. JCR 2014 : 2.947](2015/12/09/kbs-paper.html)
++ Agerri, R., Artola X., Beloki Z., Rigau G. and Soroa A. [Big Data for Natural Language Processing: A Streaming Approach](http://www.sciencedirect.com/science/article/pii/S0950705114003992). [Knowledge-Based Systems](http://www.journals.elsevier.com/knowledge-based-systems). Volume 79, May 2015, Pages 36-42, ISSN 0950-7051. 2015. JCR 2014 : 2.947. [https://doi.org/10.1016/j.knosys.2014.11.007](https://doi.org/10.1016/j.knosys.2014.11.007) [Preprint PDF](https://ragerri.github.io/files/kbs-big-data-2015.pdf)
+
 + I. San Vicente, X. Saralegi and R. Agerri (2015) [EliXa: A modular and flexible ABSA platform](https://aclweb.org/anthology/S/S15/S15-2127.pdf). In Proceedings of the 9th International Workshop on Semantic Evaluation ([SemEval 2015](http://alt.qcri.org/semeval2015/)), Denver, USA, pp. 748-752, 2015
 
 ## 2014
 + Rodrigo Agerri, Josu Bermudez and German Rigau (2014): [IXA pipes: Efficient and Ready to Use Multilingual NLP tools](http://www.lrec-conf.org/proceedings/lrec2014/pdf/775_Paper.pdf). In Proceedings of the 9th Language Resources and Evaluation Conference (LREC2014), 26-31 May, 2014, Reykjavik, Iceland.
+
 + Iñaki San Vicente, Rodrigo Agerri and German Rigau (2014): [Simple, Robust and (almost) Unsupervised Generation of Polarity Lexicons for Multiple Languages](http://aclweb.org/anthology/E/E14/E14-1010.pdf). In Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL2014), April 26-30, 2014, Gothenburg, Sweden.
+
 + Rodrigo Agerri, Josu Bermudez and German Rigau (2014): [Multilingual, Efficient and Easy NLP Processing with IXA Pipeline](http://aclweb.org/anthology/E/E14/E14-2002.pdf). In Proceedings of the Demo Sessions of the 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL2014), April 26-30, 2014, Gothenburg, Sweden.
+
 + Agerri R., Agirre E., Aldabe I., Altuna B., Beloki Z., Laparra E., López de Lacalle M., Rigau G., Soroa A., Urizar R. [The NewsReader project](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/5063). Proceedings of the 30th Annual Meeting of Sociedad Española para el Procesamiento del Lenguaje Natural (SEPLN’14). Girona, Spain. Procesamiento del Lenguaje Natural. Vol. 53 pp. pp 215-218. ISSN: 1135-5948. 2014.
+
 + Isa Maks, Ruben Izquierdo, Francesca Frontini, Montse Cuadros, Rodrigo Agerri and Piek Vossen (2014). [Generating Polarity Lexicons with WordNet propagation in 5 languages](http://www.lrec-conf.org/proceedings/lrec2014/pdf/847_Paper.pdf). In Proceedings of the 9th Language Resources and Evaluation Conference (LREC2014), 26-31 May, 2014, Reykjavik, Iceland.
 
 ## 2013-2011
 
-+ Rodrigo Agerri, Montse Cuadros, Sean Gaines and German Rigau (2013). [OpeNER: Open Polarity Enhanced Named Entity Recognition](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/4891). Sociedad Española para el Procesamiento del Lenguaje Natural, Volume 51, Madrid, Spain 2013.
++ Rodrigo Agerri, Montse Cuadros, Sean Gaines and German Rigau (2013). [OpeNER: Open Polarity Enhanced Named Entity Recognition](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/4891). Procesamiento del Lenguaje Natural, Volume 51: 215-218. [PDF](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/download/4891/2906)
+
 + Volha Petukhova, Rodrigo Agerri, Mark Fishel, Sergio Penkale, Arantza del Pozo, Mirjam Sepesy Maucec, Andy Way, Panayota Georgakopoulou and Martin Volk (2012). [SUMAT: Data Collection and Parallel Corpus Compilation for Machine Translation of Subtitles](http://www.lrec-conf.org/proceedings/lrec2012/pdf/154_Paper.pdf). In the Proceedings of the 7th International Conference on Language Resources and Evaluation (LREC 2012), Istanbul, Turkey, 2012.
-+ A.M. Wallington, R. Agerri, J.A. Barnden, M.G. Lee, T. Rumbell (2011). [Affect Transfer by Metaphor for an Intelligent Conversational Agent](http://www.rodrigoagerri.net/papers/Emot08final.pdf). In K. Ahmad (ed.), Affective Computing and Sentiment Analysis: Metaphor, Ontology, Affect and Terminology. Text, Speech and Language Technology Series, pages 61-74, ISBN 978-94-007-1756-5, Springer, Heidelberg.
+
++ A.M. Wallington, R. Agerri, J.A. Barnden, M.G. Lee, T. Rumbell (2011). [Affect Transfer by Metaphor for an Intelligent Conversational Agent](https://ragerri.github.io/files/Emot08final.pdf). In K. Ahmad (ed.), Affective Computing and Sentiment Analysis: Metaphor, Ontology, Affect and Terminology. Text, Speech and Language Technology Series, pages 61-74, ISBN 978-94-007-1756-5, Springer, Heidelberg.
 
 ## 2010 and before
 
-+ Rodrigo Agerri and Ana Garcia-Serrano (2010). [Q-WordNet: Extracting polarity from WordNet senses](http://www.rodrigoagerri.net/papers/qwn.pdf). In the Proceedings of the 7th International Conference on Language Resources and Evaluation (LREC 2010), Malta, May 2010.
-+ Rodrigo Agerri and Anselmo Peñas (2010). [On the Automatic Generation of Intermediate Logic Form for WordNet glosses](http://www.rodrigoagerri.net/papers/ilf.pdf). 11th International Conference on Intelligent Text Processing and Computational Linguistics (Cicling-2010), Iasi, Romania, 21-27 March. LNCS Volume 6008 by Springer.
-+ M. Volk, A. del Pozo, R. Agerri (2010). [Multilingual subtitling in the age of Google Translate](http://www.rodrigoagerri.net/papers/languagemedia10.pdf). Language and the Media Conference, Berlin, 6-8 October, 2010.
++ Rodrigo Agerri and Ana Garcia-Serrano (2010). [Q-WordNet: Extracting polarity from WordNet senses](https://ragerri.github.io/files/qwn.pdf). In the Proceedings of the 7th International Conference on Language Resources and Evaluation (LREC 2010), Malta, May 2010.
+
++ Rodrigo Agerri and Anselmo Peñas (2010). [On the Automatic Generation of Intermediate Logic Form for WordNet glosses](https://ragerri.github.io/files/ilf.pdf). 11th International Conference on Intelligent Text Processing and Computational Linguistics (Cicling-2010), Iasi, Romania, 21-27 March. LNCS Volume 6008 by Springer.
+
++ M. Volk, A. del Pozo, R. Agerri (2010). [Multilingual subtitling in the age of Google Translate](https://ragerri.github.io/files/languagemedia10.pdf). Language and the Media Conference, Berlin, 6-8 October, 2010.
+
 + Rodrigo Agerri (2008). [Metaphor in Textual Entailment](http://www.aclweb.org/anthology/C/C08/C08-2001.pdf). Companion Proceedings of the 22nd International Conference on Computational Linguistics (Coling 2008), Manchester, UK, pages 2-6.
-+ R. Agerri, J.A. Barnden, M.G. Lee and A.M. Wallington (2007). [Metaphor, Inference and Domain Independent Mappings](http://www.rodrigoagerri.net/papers/ranlp07.pdf). Proceedings of the Research Advances in Natural Language Processing Conference (RANLP-07), Borovets, Bulgaria, 27-29 September 2007.
+
++ R. Agerri, J.A. Barnden, M.G. Lee and A.M. Wallington (2007). [Metaphor, Inference and Domain Independent Mappings](https://ragerri.github.io/files/ranlp07.pdf). Proceedings of the Research Advances in Natural Language Processing Conference (RANLP-07), Borovets, Bulgaria, 27-29 September 2007.
 
 ## Book translation
 
