@@ -30,8 +30,8 @@ redirect_from:
 
 ## Participation in Research Projects {#projects}
 
-+ Research in the [NewsReader project: Building structured event Indexes of large volumes of financial and economic Data for Decision Making](http://www.newsreader-project.eu/), funded by the Grant agreement no.: 316404 – Co-funded by the EU - FP7 Work Programme Call FP7-ICT-2011-8
-+ Working on the [OpeNER project: Open Polarity Enhanced Named Entity Recognition](http://www.opener-project.eu/), funded by the FP7-2011-ICT-SME-DCL call on Sharing Language Resources.
++ Researcher in the [NewsReader project: Building structured event Indexes of large volumes of financial and economic Data for Decision Making](http://www.newsreader-project.eu/), funded by the Grant agreement no.: 316404 – Co-funded by the EU - FP7 Work Programme Call FP7-ICT-2011-8
++ Researcher,  [OpeNER project: Open Polarity Enhanced Named Entity Recognition](http://www.opener-project.eu/), funded by the FP7-2011-ICT-SME-DCL call on Sharing Language Resources.
 + Researcher in the [SKATER project](http://nlp.lsi.upc.edu/skater/): Grant agreement TIN2012-38584-C06-01 funded by the Spanish Ministry of Science and Innovation.
 + Researcher in the [PATHS Project: Personalised Access to Cultural Heritage Spaces](http://www.paths-project.eu/). PATHS was funded by the European Commission FP7 under Digital Libraries and Digital Preservation programme  which started on January 1st 2010 and run for three years.
 + Consultant at [Vicomtech-IK4](http://www.vicomtech.org) for the [SUMAT CIP-ICT-PSP 270919 European project](http://www.sumat-project.eu/) (2011-2012).
@@ -40,6 +40,8 @@ redirect_from:
 + Previous research projects: [Etortek Berbatek](http://www.spri.eus/euskadinnova/es/innovacion-tecnologica/noticias/berbatek-aspecto-practico-tecnologias-linguisticas-multimedia/8427.aspx), [MAVIR](http://mavir2006.mavir.net/), [ESRC/EPSRC E-drama](http://www.cs.bham.ac.uk/research/projects/edrama/), EPSRC [ATT-Meta](http://www.cs.bham.ac.uk/~jab/ATT-Meta/)
 
 ## Talks and Seminars {#talks}
+
++ TODO
 
 ## Reviewing Activities {#review}
 
@@ -61,6 +63,6 @@ redirect_from:
 + Reviewer for the [Language Resources and Evaluation Journal](http://link.springer.com/journal/10579), Springer, 2010.
 
 
-Service and leadership
-======
+## Service and leadership
+
 * Currently signed in to 14423 different slack teams
