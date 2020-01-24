@@ -21,7 +21,7 @@ redirect_from:
 
 Two datasets in Spanish (CIC-ES) and Catalan (CIC-CA) consisting of annotated Twitter messages for **automatic stance detection**. The data was collected 12 days during February and March of 2019. The corpus is annotated with three classes: AGAINST, FAVOR and NEUTRAL, which express stance towards the target, namely, the independence of Catalonia.
 
-+ [Download the Catalonica Independence Corpus](https://github.com/ixa-ehu/catalonia-independence-dataset)
++ [Download the Catalonia Independence Corpus](https://github.com/ixa-ehu/catalonia-independence-dataset)
 
 The distribution of the classes within the corpus is the following:
 
