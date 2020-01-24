@@ -21,6 +21,8 @@ redirect_from:
 
 + Rodrigo Agerri (2019). [Doris Martin at SemEval-2019 Task 4: Hyperpartisan News Detection with Generic Semi-supervised Features](https://www.aclweb.org/anthology/S19-2161.pdf). [SemEval@NAACL-HLT 2019](http://alt.qcri.org/semeval2019/): 944-948.
 
+Joseba Fernandez de Landa Aguirre; Rodrigo Agerri; Iñaki Alegria. Euskaldun gazte eta helduen harremanak Twitterren. III. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu bilduma. Gizarte Zientziak eta Zuzenbidea. 2, pp. 83 - 90. Udako Euskal Unibertsitatea (UEU), 2019. [PDF](http://www.ueu.eus/download/liburua/GIZARTEZIENTZIAKETAZUZENBIDEA_0.pdf)
+
 ## 2018
 
 + Rodrigo Agerri, Yiling Chung, Itziar Aldabe, Nora Aranberri, Gorka Labaka and German Rigau (2018). [Building Named Entity Recognition Taggers via Parallel Corpora](http://www.lrec-conf.org/proceedings/lrec2018/pdf/965.pdf). In [Proceedings of the 11th Language Resources and Evaluation Conference (LREC 2018)](http://lrec2018.lrec-conf.org/en/), 7-12 May, 2018, Miyazaki, Japan.
