@@ -17,7 +17,7 @@ redirect_from:
 
 + Rodrigo Agerri, Iñaki San Vicente, Jon Ander Campos, Ander Barrena, Xabier Saralegi, Aitor Soroa and Eneko Agirre (2020). Give your Text Representation Models some Love: the Case for Basque. In LREC 2020. [PDF](https://ragerri.github.io/files/basque-embeddings-lrec-2020.pdf)
 
-+ Elena Zotova, Rodrigo Agerri, Manuel Nuñez and German Rigau (2020). Multilingual Stance Detection in Tweets: The Catalonia Independence Corpus. In LREC 2020. [PDF](https://ragerri.github.io/files/basque-embeddings-lrec-2020.pdf)
++ Elena Zotova, Rodrigo Agerri, Manuel Nuñez and German Rigau (2020). Multilingual Stance Detection in Tweets: The Catalonia Independence Corpus. In LREC 2020. [PDF](https://ragerri.github.io/files/cic-corpus-lrec-2020.pdf)
 
 ## 2019
 
