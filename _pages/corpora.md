@@ -21,16 +21,16 @@ redirect_from:
 
 Two datasets in Spanish (CIC-ES) and Catalan (CIC-CA) consisting of annotated Twitter messages for **automatic stance detection**. The data was collected 12 days during February and March of 2019. The corpus is annotated with three classes: AGAINST, FAVOR and NEUTRAL, which express stance towards the target, namely, the independence of Catalonia.
 
-+ [Download the Catalonia Independence Corpus](https://github.com/ixa-ehu/catalonia-independence-dataset)
++ [Download the Catalonia Independence Corpus](https://github.com/ixa-ehu/catalonia-independence-corpus)
 
 The distribution of the classes within the corpus is the following:
 
 + CIC-CA: 10048 tweets, AGAINST 3988, FAVOR 3902 and NEUTRAL 2158.
 + CIC-ES: 10077 tweets: AGAINST 4105, FAVOR 4104 and NEUTRAL 1868.
 
-### Citation:
+### Reference:
 
-TBA
+Elena Zotova, Rodrigo Agerri, Manuel Nuñez and German Rigau (2020). Multilingual Stance Detection in Tweets: The Catalonia Independence Corpus. In LREC 2020.
 
 ## Heldugazte Corpus {#heldugazte}
 
@@ -44,7 +44,7 @@ Heldugazte is divided in two parts, the anotated corpus and the full corpus:
 
 + Full corpus: 6 million tweets in Basque from 7.977 different users, obtained during Spring/Summer of 2018. [Download Full Corpus](http://ixa2.si.ehu.es/heldugazte-corpus/heldugazte-osoa.tar.gz). The format provided is one file per user containing the IDs of every tweet by that specific user. The file is named using the ID of each user.
 
-### Citation:
+### Reference:
 
 + Joseba Fernandez de Landa, Rodrigo Agerri, Iñaki Alegria (2019). [Large Scale Linguistic Processing of Tweets to Understand Social Interactions among Speakers of Less Resourced Languages: The Basque Case](https://www.mdpi.com/2078-2489/10/6/212/htm). Information 10(6): 212 (2019).
 
@@ -54,7 +54,7 @@ Spanish AMR annotations for 50 sentences from the [Little Prince Corpus](https:/
 
 + [Download the Spanish AMR Corpus](https://github.com/ixa-ehu/amr-corpus-spanish)
 
-### Citation:
+### Reference:
 
 + Noelia Migueles-Abraira, Rodrigo Agerri and Arantza Diaz de Ilarraza (2018). [Annotating Abstract Meaning Representations for Spanish](http://www.lrec-conf.org/proceedings/lrec2018/pdf/743.pdf). In [Proceedings of the 11th Language Resources and Evaluation Conference (LREC 2018)](http://lrec2018.lrec-conf.org/en/), 7-12 May, 2018, Miyazaki, Japan.
 
@@ -69,7 +69,7 @@ Our method is easily applicable to create qwn-ppv(s) other languages, and we dem
 + Get English and Spanish QWN-PPV lexicons cited in the paper: [http://adimen.si.ehu.es/web/qwn-ppv](http://adimen.si.ehu.es/web/qwn-ppv)
 + Get the software from github: [https://github.com/ixa-ehu/qwn-ppv](https://github.com/ixa-ehu/qwn-ppv)
 
-### Citation:
+### Reference:
 
 + Iñaki San Vicente, Rodrigo Agerri and German Rigau (2014): [Simple, Robust and (almost) Unsupervised Generation of Polarity Lexicons for Multiple Languages](http://aclweb.org/anthology/E/E14/E14-1010.pdf). In Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL2014), April 26-30, 2014, Gothenburg, Sweden.
 
@@ -81,7 +81,7 @@ Intermediate Logic Forms are straightforwardly obtained from the output of pipel
 
 + [Download ILF-WN (72M)](http://nlp.uned.es/semantics/ilf/ILFWN.v.0.2.tar.gz). A reasonably exhaustive description is also included.
 
-### Citation:
+### Reference:
 
 + Rodrigo Agerri and Anselmo Peñas (2010). [On the Automatic Generation of Intermediate Logic Form for WordNet glosses](papers/ilf.pdf). 11th International Conference on Intelligent Text Processing and Computational Linguistics (Cicling-2010), Iasi, Romania, 21-27 March. LNCS Volume 6008 by Springer.
 
@@ -93,6 +93,6 @@ A quantitative evaluation of Q-WordNet as a binary classification task shows imp
 
 + Download (including reference paper): [Q-WordNet](https://ragerri.github.io/files/qwordnet-0.3.tar.gz)
 
-### Citation:
+### Reference:
 
 + Rodrigo Agerri and Ana Garcia-Serrano (2010). [Q-WordNet: Extracting polarity from WordNet senses](papers/qwn.pdf). In the Proceedings of the 7th International Conference on Language Resources and Evaluation (LREC 2010), Malta, May 2010.
