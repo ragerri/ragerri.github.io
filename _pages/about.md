@@ -17,7 +17,9 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
-+
++ **New project funded**: I am co-PI (with Simón Peña-Fernandez) of the project: "Tools for the analysis of parliamentary discourses: polarization, subjectivity and affectivity in the post-truth era". Funded by the UPV/EHU to promote collaboration between [GureIker](https://www.ehu.eus/en/web/gureiker/home) and [IXA](https://ixa.eus/) research groups.
+
++ **Two papers accepted at LREC 2020** 
 
 ## Final Word
 
