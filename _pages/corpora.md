@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-1. [CID: Catalonia Independence Corpus](#cic)
+1. [CIC: Catalonia Independence Corpus](#cic)
 2. [Heldugazte Corpus](#heldugazte)
 3. [Spanish AMR Corpus](#es-amr)
 4. [QWN-PPV: Q-WordNet via Personalized PageRank](#qwn-ppv)
