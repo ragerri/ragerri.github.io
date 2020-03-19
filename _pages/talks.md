@@ -21,8 +21,7 @@ redirect_from:
 
 + **Radio interview**: Agora Program, Aragon Radio. [Link to interview](http://www.aragonradio.es/radio?reproducir=194777)
 
-+ **First enetCollect Crowdfest talk**: enetCollect COST action Management Committee meeting. Talk reporting about the organization and main results of the first Crowdfest edition organized in Brussels, February 2019. [Link to video talk](http://videolectures.net/3rdAnnualActionMeeting2019_agerri_crowdfest_overvi/) 
-
++ **First enetCollect Crowdfest talk**: [enetCollect COST action](https://enetcollect.eurac.edu/) Management Committee meeting. Talk reporting about the organization and main results of the first Crowdfest edition organized in Brussels, January 2019. [Link to video talk](http://videolectures.net/3rdAnnualActionMeeting2019_agerri_crowdfest_overvi/)
 
 
 
