@@ -15,14 +15,15 @@ redirect_from:
 
 ## 2019
 
-+ **Invited talk on AI and Journalism**: [XIV Seminario Internacional de Lengua y Periodismo](https://www.fundeu.es/san-millan-2019/), organized by Fundeu BBVA and Fundacion San Millan de la Cogolla, 3-4 October, 2019. [Link to video talk](https://youtu.be/21NX_BUxic0)
++ **Invited talk on AI and Journalism**: [XIV Seminario Internacional de Lengua y Periodismo](https://www.fundeu.es/san-millan-2019/), organized by Fundeu BBVA and Fundacion San Millan de la Cogolla, 3-4 October, 2019. [Link to video talk (Spanish)](https://youtu.be/21NX_BUxic0)
 
-+ **Radio interview**: Las Mañanas de RNE. [Link to interview](http://www.rtve.es/alacarta/audios/las-mananas-de-rne-con-pepa-fernandez/mananas-rne-pepa-fernandez-gente-sensata-hablar-maquinas/5421672/)
++ **Radio interview**: Las Mañanas de RNE. [Link to interview (Spanish)](http://www.rtve.es/alacarta/audios/las-mananas-de-rne-con-pepa-fernandez/mananas-rne-pepa-fernandez-gente-sensata-hablar-maquinas/5421672/)
 
-+ **Radio interview**: Agora Program, Aragon Radio. [Link to interview](http://www.aragonradio.es/radio?reproducir=194777)
++ **Radio interview**: Agora Program, Aragon Radio. [Link to interview (Spanish)](http://www.aragonradio.es/radio?reproducir=194777)
 
-+ **First enetCollect Crowdfest talk**: enetCollect COST action Management Committee meeting. Talk reporting about the organization and main results of the first Crowdfest edition organized in Brussels, February 2019. [Link to video talk](http://videolectures.net/3rdAnnualActionMeeting2019_agerri_crowdfest_overvi/) 
++ **Invited Talk on Digital Humanities for Basque**. Humanitate Digitalak (HD). Sarrera, digitalizazioaren aukerak eta erronkak. [UEU Humanitate Digitalak](http://www.ueu.eus/ikasi/jardunaldi-ikastaroa/1350/Humanitate%2Bdigitalak%253A%2Baukerak%252C%2Berakundeen%2Brol%2Bberriak%2Beta%2Belkarlana.), Euskaltzaindiaren egoitza, Bilbo. [Link to video talk (Basque)](https://www.youtube.com/watch?v=JVP2yXw8G2A)
 
++ **First enetCollect Crowdfest Overview Talk**: [enetCollect COST action](https://enetcollect.eurac.edu/) Management Committee meeting. Talk reporting about the organization and main results of the first Crowdfest edition organized in Brussels, January 2019. [Link to video talk (English)](http://videolectures.net/3rdAnnualActionMeeting2019_agerri_crowdfest_overvi/)
 
 
 
