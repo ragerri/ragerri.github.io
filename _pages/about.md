@@ -19,7 +19,7 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 + **We won the Capitel 2020 NER shared task in Spanish**: [Results and details in the shared task page](https://sites.google.com/view/capitel2020)
 
-+ **Invited to the IJCAI Journal track**: We have been invited to publish our paper [Language Independent Sequence Labelling for Opinion Target Extraction](https://doi.org/10.1016/j.artint.2018.12.002), Artificial Intelligence Journal, 2019. [preprint version available](https://ragerri.github.io/files/ijcai-2020.pdf)
++ **Invited to the IJCAI 2020 Journal track**: We have been invited to publish our paper [Language Independent Sequence Labelling for Opinion Target Extraction](https://doi.org/10.1016/j.artint.2018.12.002), Artificial Intelligence Journal, 2019. [preprint version available](https://ragerri.github.io/files/ijcai-2020.pdf)
 
 + **New project funded**: I am co-PI (with Simón Peña-Fernandez) of the project: "Tools for the analysis of parliamentary discourses: polarization, subjectivity and affectivity in the post-truth era". Funded by the UPV/EHU to promote collaboration between [GureIker](https://www.ehu.eus/en/web/gureiker/home) and [IXA](https://ixa.eus/) research groups.
 
