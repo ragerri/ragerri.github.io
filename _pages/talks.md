@@ -13,6 +13,12 @@ redirect_from:
 
 {% include base_path %}
 
+## 2020
+
++ **Invited talk at the Workshop on Named Entity Recognition in the Context of Machine Translation**, [organized within the SMART 2019/1083 (CEF Automated Translation, Contracting Authority DG CNECT)](https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4651)
+
++ **Invited talk at the International Study Week, [University of Zurich](https://www.cl.uzh.ch/en.html)**, organized within the [Master on Computational Linguistics](https://www.phil.uzh.ch/de/studium/master.html)
+
 ## 2019
 
 + **Invited talk on AI and Journalism**: [XIV Seminario Internacional de Lengua y Periodismo](https://www.fundeu.es/san-millan-2019/), organized by Fundeu BBVA and Fundacion San Millan de la Cogolla, 3-4 October, 2019. [Link to video talk (Spanish)](https://youtu.be/21NX_BUxic0)
