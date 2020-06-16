@@ -17,7 +17,7 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
-+ **We won the Capitel 2020 NER shared task in Spanish**: [Results and details in the shared task page](https://sites.google.com/view/capitel2020
++ **We won the Capitel 2020 NER shared task in Spanish**: [Results and details in the shared task page](https://sites.google.com/view/capitel2020)
 
 + **Invited to the IJCAI Journal track**: We have been invited to publish our paper [Language Independent Sequence Labelling for Opinion Target Extraction](https://doi.org/10.1016/j.artint.2018.12.002), Artificial Intelligence Journal, 2019. [preprint version available]()
 
