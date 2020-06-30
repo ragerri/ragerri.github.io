@@ -69,7 +69,7 @@ redirect_from:
 
 + Agerri, R., Artola X., Beloki Z., Rigau G. and Soroa A. [Big Data for Natural Language Processing: A Streaming Approach](http://www.sciencedirect.com/science/article/pii/S0950705114003992). [Knowledge-Based Systems](http://www.journals.elsevier.com/knowledge-based-systems). Volume 79, May 2015, Pages 36-42, ISSN 0950-7051. 2015. JCR 2014 : 2.947. [https://doi.org/10.1016/j.knosys.2014.11.007](https://doi.org/10.1016/j.knosys.2014.11.007) [Preprint PDF](https://ragerri.github.io/files/kbs-big-data-2015.pdf)
 
-+ I. San Vicente, X. Saralegi and R. Agerri (2015) [EliXa: A modular and flexible ABSA platform](https://aclweb.org/anthology/S/S15/S15-2127.pdf). In Proceedings of the 9th International Workshop on Semantic Evaluation ([SemEval 2015](http://alt.qcri.org/semeval2015/)), Denver, USA, pp. 748-752, 2015
++ I. San Vicente, X. Saralegi and R. Agerri (2015) [EliXa: A modular and flexible ABSA platform](https://aclweb.org/anthology/S/S15/S15-2127.pdf). In Proceedings of the 9th International Workshop on Semantic Evaluation ([SemEval 2015](http://alt.qcri.org/semeval2015/)), Denver, USA, pp. 748-752, 2015. **Winner of the Opinion Target Extraction task**
 
 ## 2014
 + Rodrigo Agerri, Josu Bermudez and German Rigau (2014): [IXA pipes: Efficient and Ready to Use Multilingual NLP tools](http://www.lrec-conf.org/proceedings/lrec2014/pdf/775_Paper.pdf). In Proceedings of the 9th Language Resources and Evaluation Conference (LREC2014), 26-31 May, 2014, Reykjavik, Iceland.
