@@ -17,7 +17,7 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
-+ **[We won the Capitel 2020 NER shared task in Spanish](http://www.ehu.eus/ehusfera/ixa/2020/05/28/2732/)**: [Results and details in the shared task page](https://sites.google.com/view/capitel2020)
++ **[We won the Capitel 2020 NER shared task in Spanish](http://www.ehu.eus/ehusfera/ixa/2020/05/28/2732/)**: [Results and details in the shared task page](https://sites.google.com/view/capitel2020) [PDF paper](https://ragerri.github.io/files/ixaera-capitel2020.pdf)
 
 + **Invited to the IJCAI 2020 Journal track**: We have been invited to publish our paper [Language Independent Sequence Labelling for Opinion Target Extraction](https://doi.org/10.1016/j.artint.2018.12.002), Artificial Intelligence Journal, 2019. [preprint version available](https://ragerri.github.io/files/ijcai2020.pdf)
 
