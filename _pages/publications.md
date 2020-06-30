@@ -17,11 +17,11 @@ redirect_from:
 
 + Rodrigo Agerri, German Rigau (2020). [Language independent sequence labelling for Opinion Target Extraction](https://ragerri.github.io/files/ijcai2020.pdf). In IJCAI 2020.
 
-+ Rodrigo Agerri, German Rigau (2020). [Projecting Heterogeneous Annotation for Named Entity Recognition](https://ragerri.github.io/files/ixaera-capitel2020.pdf). In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2020). **Winner of the CAPITEL@IberLEF task on Spanish NER**
++ Rodrigo Agerri, German Rigau (2020). [Projecting Heterogeneous Annotations for Named Entity Recognition](https://ragerri.github.io/files/ixaera-capitel2020.pdf). In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2020). **Winner of the CAPITEL@IberLEF task on Spanish NER**
 
-+ Rodrigo Agerri, Iñaki San Vicente, Jon Ander Campos, Ander Barrena, Xabier Saralegi, Aitor Soroa and Eneko Agirre (2020). Give your Text Representation Models some Love: the Case for Basque. In LREC 2020. [PDF](https://ragerri.github.io/files/basque-embeddings-lrec-2020.pdf)
++ Rodrigo Agerri, Iñaki San Vicente, Jon Ander Campos, Ander Barrena, Xabier Saralegi, Aitor Soroa and Eneko Agirre (2020). [Give your Text Representation Models some Love: the Case for Basque](https://ragerri.github.io/files/basque-embeddings-lrec-2020.pdf). In LREC 2020.
 
-+ Elena Zotova, Rodrigo Agerri, Manuel Nuñez and German Rigau (2020). Multilingual Stance Detection in Tweets: The Catalonia Independence Corpus. In LREC 2020. [PDF](https://ragerri.github.io/files/cic-corpus-lrec-2020.pdf)
++ Elena Zotova, Rodrigo Agerri, Manuel Nuñez and German Rigau (2020). [Multilingual Stance Detection in Tweets: The Catalonia Independence Corpus](https://ragerri.github.io/files/cic-corpus-lrec-2020.pdf). In LREC 2020.
 
 ## 2019
 
@@ -31,7 +31,7 @@ redirect_from:
 
 + Rodrigo Agerri (2019). [Doris Martin at SemEval-2019 Task 4: Hyperpartisan News Detection with Generic Semi-supervised Features](https://www.aclweb.org/anthology/S19-2161.pdf). [SemEval@NAACL-HLT 2019](http://alt.qcri.org/semeval2019/): 944-948.
 
-+ Joseba Fernandez de Landa Aguirre; Rodrigo Agerri; Iñaki Alegria. Euskaldun gazte eta helduen harremanak Twitterren. III. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu bilduma. Gizarte Zientziak eta Zuzenbidea. 2, pp. 83 - 90. Udako Euskal Unibertsitatea (UEU), 2019. [PDF](http://www.ueu.eus/download/liburua/GIZARTEZIENTZIAKETAZUZENBIDEA_0.pdf)
++ Joseba Fernandez de Landa Aguirre; Rodrigo Agerri; Iñaki Alegria. [Euskaldun gazte eta helduen harremanak Twitterren](http://www.ueu.eus/download/liburua/GIZARTEZIENTZIAKETAZUZENBIDEA_0.pdf). III. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu bilduma. Gizarte Zientziak eta Zuzenbidea. 2, pp. 83 - 90. Udako Euskal Unibertsitatea (UEU), 2019.
 
 ## 2018
 
