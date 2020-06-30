@@ -15,7 +15,9 @@ redirect_from:
 
 ## 2020
 
-+ Rodrigo Agerri, German Rigau, [Language independent sequence labelling for Opinion Target Extraction](https://ragerri.github.io/files/ijcai2020.pdf). In IJCAI 2020.
++ Rodrigo Agerri, German Rigau (2020). [Language independent sequence labelling for Opinion Target Extraction](https://ragerri.github.io/files/ijcai2020.pdf). In IJCAI 2020.
+
++ Rodrigo Agerri, German Rigau (2020). [Projecting Heterogeneous Annotation for Named Entity Recognition](https://ragerri.github.io/files/ixaera-capitel2020.pdf). In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2020). **Winner of the CAPITEL@IberLEF task on Spanish NER**
 
 + Rodrigo Agerri, Iñaki San Vicente, Jon Ander Campos, Ander Barrena, Xabier Saralegi, Aitor Soroa and Eneko Agirre (2020). Give your Text Representation Models some Love: the Case for Basque. In LREC 2020. [PDF](https://ragerri.github.io/files/basque-embeddings-lrec-2020.pdf)
 
