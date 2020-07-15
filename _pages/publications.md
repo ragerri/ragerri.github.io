@@ -15,7 +15,7 @@ redirect_from:
 
 ## 2020
 
-+ Rodrigo Agerri, German Rigau (2020). [Language independent sequence labelling for Opinion Target Extraction](https://ragerri.github.io/files/ijcai2020.pdf). In IJCAI 2020.
++ Rodrigo Agerri, German Rigau (2020). [Language independent sequence labelling for Opinion Target Extraction](https://www.ijcai.org/Proceedings/2020/0717.pdf). In IJCAI 2020.
 
 + Rodrigo Agerri, German Rigau (2020). [Projecting Heterogeneous Annotations for Named Entity Recognition](https://ragerri.github.io/files/ixaera-capitel2020.pdf). In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2020). **Winner of the CAPITEL@IberLEF task on Spanish NER**
 
