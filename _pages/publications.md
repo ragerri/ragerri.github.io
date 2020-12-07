@@ -17,11 +17,11 @@ redirect_from:
 
 + Rodrigo Agerri, German Rigau (2020). [Language independent sequence labelling for Opinion Target Extraction](https://www.ijcai.org/Proceedings/2020/0717.pdf). In IJCAI 2020.
 
-+ Rodrigo Agerri, German Rigau (2020). [Projecting Heterogeneous Annotations for Named Entity Recognition](https://ragerri.github.io/files/ixaera-capitel2020.pdf). In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2020). **Winner of the CAPITEL@IberLEF task on Spanish NER**
++ Rodrigo Agerri, German Rigau (2020). [Projecting Heterogeneous Annotations for Named Entity Recognition](http://ceur-ws.org/Vol-2664/capitel_paper2.pdf). In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2020). **Winner of the CAPITEL@IberLEF task on Spanish NER**
 
-+ Rodrigo Agerri, Iñaki San Vicente, Jon Ander Campos, Ander Barrena, Xabier Saralegi, Aitor Soroa and Eneko Agirre (2020). [Give your Text Representation Models some Love: the Case for Basque](https://ragerri.github.io/files/basque-embeddings-lrec-2020.pdf). In LREC 2020.
++ Rodrigo Agerri, Iñaki San Vicente, Jon Ander Campos, Ander Barrena, Xabier Saralegi, Aitor Soroa and Eneko Agirre (2020). [Give your Text Representation Models some Love: the Case for Basque](https://www.aclweb.org/anthology/2020.lrec-1.588.pdf). In LREC 2020.
 
-+ Elena Zotova, Rodrigo Agerri, Manuel Nuñez and German Rigau (2020). [Multilingual Stance Detection in Tweets: The Catalonia Independence Corpus](https://ragerri.github.io/files/cic-corpus-lrec-2020.pdf). In LREC 2020.
++ Elena Zotova, Rodrigo Agerri, Manuel Nuñez and German Rigau (2020). [Multilingual Stance Detection in Tweets: The Catalonia Independence Corpus](https://www.aclweb.org/anthology/2020.lrec-1.171.pdf). In LREC 2020.
 
 ## 2019
 
