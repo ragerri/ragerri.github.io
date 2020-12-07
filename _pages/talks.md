@@ -15,9 +15,11 @@ redirect_from:
 
 ## 2020
 
-+ **Invited talk at the Workshop on Named Entity Recognition in the Context of Machine Translation**, [organized within the SMART 2019/1083 (CEF Automated Translation, Contracting Authority DG CNECT)](https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4651)
++ **Invited talk at the CityAI Seminar Series**, organized by the [Artificial Intelligence Research Centre, CitAI at City, University of London](https://cit-ai.net/seminars-events.html), 11 October 2020.
 
-+ **Invited talk at the International Study Week, [University of Zurich](https://www.cl.uzh.ch/en.html)**, organized within the [Master on Computational Linguistics](https://www.phil.uzh.ch/de/studium/master.html)
++ **Invited talk at the Workshop on Named Entity Recognition in the Context of Machine Translation**, [organized within the SMART 2019/1083 (CEF Automated Translation, Contracting Authority DG CNECT)](https://etendering.ted.europa.eu/cft/cft-display.html?cftId=4651), 5 June 2020.
+
++ **Invited talk at the International Study Week, [University of Zurich](https://www.cl.uzh.ch/en.html)**, organized within the [Master on Computational Linguistics](https://www.phil.uzh.ch/de/studium/master.html), 11 June 2020.
 
 ## 2019
 
