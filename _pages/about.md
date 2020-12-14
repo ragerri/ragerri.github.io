@@ -17,7 +17,7 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
-+ **[We won the SardiStance@EVALITA 2020 shared task on Stance Detection](http://ceur-ws.org/Vol-2765/paper120.pdf)**[Results and details in the shared task overview paper](http://ceur-ws.org/Vol-2765/paper159.pdf)
++ **[We won the SardiStance@EVALITA 2020 shared task on Stance Detection](http://ceur-ws.org/Vol-2765/paper120.pdf) **[Results and details in the shared task overview paper](http://ceur-ws.org/Vol-2765/paper159.pdf)
 
 + **[We won the Capitel 2020 NER shared task in Spanish](http://www.ehu.eus/ehusfera/ixa/2020/05/28/2732/)**: [Results and details in the shared task page](https://sites.google.com/view/capitel2020). You can check the [paper here](https://ragerri.github.io/files/ixaera-capitel2020.pdf)
 
