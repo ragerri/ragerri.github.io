@@ -17,7 +17,7 @@ redirect_from:
 
 + Rodrigo Agerri, German Rigau (2020). [Language independent sequence labelling for Opinion Target Extraction](https://www.ijcai.org/Proceedings/2020/0717.pdf). In IJCAI 2020.
 
-+ María Espinosa, Rodrigo Agerri, Roberto Centeno, Alvaro Rodrigo (2020). [DeepReading@SardiStance:Combining Textual, Social and Emotional Features](http://ceur-ws.org/Vol-2765/paper120.pdf). Proceedings of the Seventh Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2020). **Winners of the SardiStance@Evalita 2020 shared task**
++ María Espinosa, Rodrigo Agerri, Roberto Centeno, Alvaro Rodrigo (2020). [DeepReading@SardiStance:Combining Textual, Social and Emotional Features](http://ceur-ws.org/Vol-2765/paper120.pdf). Proceedings of the Seventh Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2020). **[Winners of the SardiStance@Evalita 2020 shared task](http://ceur-ws.org/Vol-2765/paper159.pdf)**
 
 + Rodrigo Agerri, German Rigau (2020). [Projecting Heterogeneous Annotations for Named Entity Recognition](http://ceur-ws.org/Vol-2664/capitel_paper2.pdf). In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2020). **Winner of the CAPITEL@IberLEF task on Spanish NER**
 
