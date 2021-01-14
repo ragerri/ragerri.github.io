@@ -13,6 +13,10 @@ redirect_from:
 
 {% include base_path %}
 
+## 2021 
+
++ Elena Zotova, Rodrigo Agerri, German Rigau (2021). [Semi-automatic generation of multilingual datasets for stance detection in Twitter](https://authors.elsevier.com/a/1cOaa_LnESXY5N). Expert Systems with Applications, 170 (2021). JCR: 5.452 (Q1). [Preprint]()[https://doi.org/10.1016/j.eswa.2020.114547](https://doi.org/10.1016/j.eswa.2020.114547)
+
 ## 2020
 
 + Rodrigo Agerri, German Rigau (2020). [Language independent sequence labelling for Opinion Target Extraction](https://www.ijcai.org/Proceedings/2020/0717.pdf). In IJCAI 2020.
@@ -27,7 +31,7 @@ redirect_from:
 
 ## 2019
 
-+ Rodrigo Agerri, German Rigau, [Language independent sequence labelling for Opinion Target Extraction](https://www.sciencedirect.com/science/article/abs/pii/S0004370218307392). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 268 (2019) 85-95. JCR: 4.797 (Q1). [Preprint PDF](https://ragerri.github.io/files/ote-absa-ixa-v03.pdf) [https://doi.org/10.1016/j.artint.2018.12.002](https://doi.org/10.1016/j.artint.2018.12.002)
++ Rodrigo Agerri, German Rigau, [Language independent sequence labelling for Opinion Target Extraction](https://www.sciencedirect.com/science/article/abs/pii/S0004370218307392). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 268 (2019) 85-95. JCR: 6.628 (Q1). [Preprint PDF](https://ragerri.github.io/files/ote-absa-ixa-v03.pdf) [https://doi.org/10.1016/j.artint.2018.12.002](https://doi.org/10.1016/j.artint.2018.12.002)
 
 + Joseba Fernandez de Landa, Rodrigo Agerri, Iñaki Alegria (2019). [Large Scale Linguistic Processing of Tweets to Understand Social Interactions among Speakers of Less Resourced Languages: The Basque Case](https://www.mdpi.com/2078-2489/10/6/212/htm). Information 10(6): 212 (2019). [PDF](https://www.mdpi.com/2078-2489/10/6/212/pdf) [https://doi.org/10.3390/info10060212](https://doi.org/10.3390/info10060212)
 
