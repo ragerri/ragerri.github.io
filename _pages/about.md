@@ -17,6 +17,12 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
++ **[New Dataset on Stance Detection on Vaccines](https://vaxxstance.github.io/)**. We organized a shared task at IberLEF 2021 on detection favour and against stance with respect to vaccines in Basque and Spanish languages. You can check the [VaxxStance shared task overview paper here](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6387/3807).
+
++ **[New paper on Social Analysis of Basque Speakers in Twitter](https://www.tandfonline.com/eprint/HTDYHF8ETG6B9HHJZ9T2/full?target=10.1080/01434632.2021.1962331)** published in the Journal of Multilingual and Multicultural Development.
+
++ I am Associate Editor at the Expert Systems with Applications journal, Elsevier.
+
 + **[New paper on Multilingual Stance Detection](https://www.sciencedirect.com/science/article/pii/S095741742031191X?dgcid=author)** published at Expert Systems with Applications, Elsevier.
 
 + **[We won the SardiStance@EVALITA 2020 shared task on Stance Detection](http://ceur-ws.org/Vol-2765/paper120.pdf)** [Results and details in the shared task overview paper](http://ceur-ws.org/Vol-2765/paper159.pdf)
