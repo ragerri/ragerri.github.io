@@ -15,13 +15,15 @@ redirect_from:
 
 ## 2021
 
-+ Elena Zotova, Rodrigo Agerri, German Rigau (2021). [Semi-automatic generation of multilingual datasets for stance detection in Twitter](https://authors.elsevier.com/a/1cOaa_LnESXY5N). Expert Systems with Applications, 170 (2021). JCR: 5.452 (Q1). [https://doi.org/10.1016/j.eswa.2020.114547](https://doi.org/10.1016/j.eswa.2020.114547) [Preprint](https://arxiv.org/abs/2101.11978)
++ Yi-Ling Chung, Marco Guerini and Rodrigo Agerri (2021). Multilingual Counter Narrative Type Classification. In ArgMining 2021. [PDF preprint](https://arxiv.org/pdf/2109.13664.pdf)
+
++ Elena Zotova, Rodrigo Agerri, German Rigau (2021). [Semi-automatic generation of multilingual datasets for stance detection in Twitter](https://authors.elsevier.com/a/1cOaa_LnESXY5N). Expert Systems with Applications, 170 (2021). JCR: 5.452 (Q1). [https://doi.org/10.1016/j.eswa.2020.114547](https://doi.org/10.1016/j.eswa.2020.114547) [PDF preprint](https://arxiv.org/abs/2101.11978)
 
 + Ainhoa Serna, Aitor Soroa, Rodrigo Agerri. Applying Deep Learning Techniques for Sentiment Analysis to Assess Sustainable Transport. Sustainability. 2021; 13(4):2397. [https://doi.org/10.3390/su13042397](https://doi.org/10.3390/su13042397)
 
 + Rodrigo Agerri, Roberto Centeno, María Espinosa, Joseba Fernández de Landa, Álvaro Rodrigo (2021). [VaxxStance@IberLEF 2021: Overview of the Task on Going Beyond Text in Cross-Lingual Stance Detection](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6387/3807). Procesamiento del Lenguaje Natural, 67, pp 173-181.
 
-+ Joseba Fernandez de Landa & Rodrigo Agerri (2021): [Social analysis of young Basque-speaking communities in twitter](https://www.tandfonline.com/eprint/HTDYHF8ETG6B9HHJZ9T2/full?target=10.1080/01434632.2021.1962331), [Journal of Multilingual and Multicultural Development](https://www.tandfonline.com/toc/rmmm20/current), DOI: 10.1080/01434632.2021.1962331. JCR: 2.814 (Q1). [Preprint](https://arxiv.org/abs/2109.03487)
++ Joseba Fernandez de Landa & Rodrigo Agerri (2021): [Social analysis of young Basque-speaking communities in twitter](https://www.tandfonline.com/eprint/HTDYHF8ETG6B9HHJZ9T2/full?target=10.1080/01434632.2021.1962331), [Journal of Multilingual and Multicultural Development](https://www.tandfonline.com/toc/rmmm20/current), DOI: 10.1080/01434632.2021.1962331. JCR: 2.814 (Q1). [PDF pPreprint](https://arxiv.org/abs/2109.03487)
 
 + Joseba Fernandez de Landa, Rodrigo Agerri (2021). [Euskarazko on-line artikuluetan aipatutako izendun entitate
 nabarmenen identifikazioa denbora errealean](https://doi.org/10.1387/ekaia.22123). Ekaia, UPV/EHU Press. [https://doi.org/10.1387/ekaia.22123](https://doi.org/10.1387/ekaia.22123).
