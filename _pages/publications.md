@@ -15,15 +15,15 @@ redirect_from:
 
 ## 2021
 
-+ Yi-Ling Chung, Marco Guerini and Rodrigo Agerri (2021). Multilingual Counter Narrative Type Classification. In ArgMining 2021. [PDF preprint](https://arxiv.org/pdf/2109.13664.pdf)
++ Yi-Ling Chung, Marco Guerini and Rodrigo Agerri (2021). Multilingual Counter Narrative Type Classification. In ArgMining 2021. [[PDF preprint]](https://arxiv.org/pdf/2109.13664.pdf)
 
-+ Elena Zotova, Rodrigo Agerri, German Rigau (2021). [Semi-automatic generation of multilingual datasets for stance detection in Twitter](https://authors.elsevier.com/a/1cOaa_LnESXY5N). Expert Systems with Applications, 170 (2021). JCR: 5.452 (Q1). [https://doi.org/10.1016/j.eswa.2020.114547](https://doi.org/10.1016/j.eswa.2020.114547) [PDF preprint](https://arxiv.org/abs/2101.11978)
++ Elena Zotova, Rodrigo Agerri, German Rigau (2021). [Semi-automatic generation of multilingual datasets for stance detection in Twitter](https://authors.elsevier.com/a/1cOaa_LnESXY5N). Expert Systems with Applications, 170 (2021). JCR: 5.452 (Q1). [https://doi.org/10.1016/j.eswa.2020.114547](https://doi.org/10.1016/j.eswa.2020.114547) [[PDF preprint]](https://arxiv.org/abs/2101.11978)
 
 + Ainhoa Serna, Aitor Soroa, Rodrigo Agerri. Applying Deep Learning Techniques for Sentiment Analysis to Assess Sustainable Transport. Sustainability. 2021; 13(4):2397. [https://doi.org/10.3390/su13042397](https://doi.org/10.3390/su13042397)
 
 + Rodrigo Agerri, Roberto Centeno, María Espinosa, Joseba Fernández de Landa, Álvaro Rodrigo (2021). [VaxxStance@IberLEF 2021: Overview of the Task on Going Beyond Text in Cross-Lingual Stance Detection](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6387/3807). Procesamiento del Lenguaje Natural, 67, pp 173-181.
 
-+ Joseba Fernandez de Landa & Rodrigo Agerri (2021): [Social analysis of young Basque-speaking communities in twitter](https://www.tandfonline.com/eprint/HTDYHF8ETG6B9HHJZ9T2/full?target=10.1080/01434632.2021.1962331), [Journal of Multilingual and Multicultural Development](https://www.tandfonline.com/toc/rmmm20/current), DOI: 10.1080/01434632.2021.1962331. JCR: 2.814 (Q1). [PDF pPreprint](https://arxiv.org/abs/2109.03487)
++ Joseba Fernandez de Landa & Rodrigo Agerri (2021): [Social analysis of young Basque-speaking communities in twitter](https://www.tandfonline.com/eprint/HTDYHF8ETG6B9HHJZ9T2/full?target=10.1080/01434632.2021.1962331), [Journal of Multilingual and Multicultural Development](https://www.tandfonline.com/toc/rmmm20/current), DOI: 10.1080/01434632.2021.1962331. JCR: 2.814 (Q1). [[PDF preprint]](https://arxiv.org/abs/2109.03487)
 
 + Joseba Fernandez de Landa, Rodrigo Agerri (2021). [Euskarazko on-line artikuluetan aipatutako izendun entitate
 nabarmenen identifikazioa denbora errealean](https://doi.org/10.1387/ekaia.22123). Ekaia, UPV/EHU Press. [https://doi.org/10.1387/ekaia.22123](https://doi.org/10.1387/ekaia.22123).
@@ -42,9 +42,9 @@ nabarmenen identifikazioa denbora errealean](https://doi.org/10.1387/ekaia.22123
 
 ## 2019
 
-+ Rodrigo Agerri, German Rigau, [Language independent sequence labelling for Opinion Target Extraction](https://www.sciencedirect.com/science/article/abs/pii/S0004370218307392). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 268 (2019) 85-95. JCR: 6.628 (Q1). [Preprint PDF](https://ragerri.github.io/files/ote-absa-ixa-v03.pdf) [https://doi.org/10.1016/j.artint.2018.12.002](https://doi.org/10.1016/j.artint.2018.12.002)
++ Rodrigo Agerri, German Rigau, [Language independent sequence labelling for Opinion Target Extraction](https://www.sciencedirect.com/science/article/abs/pii/S0004370218307392). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 268 (2019) 85-95. JCR: 6.628 (Q1). [[Preprint PDF]](https://ragerri.github.io/files/ote-absa-ixa-v03.pdf) [https://doi.org/10.1016/j.artint.2018.12.002](https://doi.org/10.1016/j.artint.2018.12.002)
 
-+ Joseba Fernandez de Landa, Rodrigo Agerri, Iñaki Alegria (2019). [Large Scale Linguistic Processing of Tweets to Understand Social Interactions among Speakers of Less Resourced Languages: The Basque Case](https://www.mdpi.com/2078-2489/10/6/212/htm). Information 10(6): 212 (2019). [PDF](https://www.mdpi.com/2078-2489/10/6/212/pdf) [https://doi.org/10.3390/info10060212](https://doi.org/10.3390/info10060212)
++ Joseba Fernandez de Landa, Rodrigo Agerri, Iñaki Alegria (2019). [Large Scale Linguistic Processing of Tweets to Understand Social Interactions among Speakers of Less Resourced Languages: The Basque Case](https://www.mdpi.com/2078-2489/10/6/212/htm). Information 10(6): 212 (2019). [[PDF preprint]](https://www.mdpi.com/2078-2489/10/6/212/pdf) [https://doi.org/10.3390/info10060212](https://doi.org/10.3390/info10060212)
 
 + Rodrigo Agerri (2019). [Doris Martin at SemEval-2019 Task 4: Hyperpartisan News Detection with Generic Semi-supervised Features](https://www.aclweb.org/anthology/S19-2161.pdf). [SemEval@NAACL-HLT 2019](http://alt.qcri.org/semeval2019/): 944-948.
 
@@ -66,7 +66,7 @@ nabarmenen identifikazioa denbora errealean](https://doi.org/10.1387/ekaia.22123
 
 ## 2017
 
-+ Egoitz Laparra, Rodrigo Agerri, Itziar Aldabe, German Rigau. [Multi-lingual and Cross-lingual timeline extraction](http://www.sciencedirect.com/science/article/pii/S0950705117303192). [Knowledge-Based Systems](http://www.journals.elsevier.com/knowledge-based-systems), 133, 77-89, 2017. JCR 2016: 3.325 (Q1). [Preprint PDF](https://ragerri.github.io/files/timelines-kbs-2017.pdf) [https://doi.org/10.1016/j.knosys.2017.07.002](https://doi.org/10.1016/j.knosys.2017.07.002)
++ Egoitz Laparra, Rodrigo Agerri, Itziar Aldabe, German Rigau. [Multi-lingual and Cross-lingual timeline extraction](http://www.sciencedirect.com/science/article/pii/S0950705117303192). [Knowledge-Based Systems](http://www.journals.elsevier.com/knowledge-based-systems), 133, 77-89, 2017. JCR 2016: 3.325 (Q1). [[Preprint PDF]](https://ragerri.github.io/files/timelines-kbs-2017.pdf) [https://doi.org/10.1016/j.knosys.2017.07.002](https://doi.org/10.1016/j.knosys.2017.07.002)
 
 + Rodrigo Agerri and German Rigau. [Robust Multilingual Named Entity Recognition with Shallow Semi-supervised Features](https://www.ijcai.org/proceedings/2017/0703.pdf). [In Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17)](https://www.ijcai.org/proceedings/2017/), 4965-4970, Melbourne, Australia.
 
@@ -76,7 +76,7 @@ nabarmenen identifikazioa denbora errealean](https://doi.org/10.1387/ekaia.22123
 
 ## 2016
 
-+ R. Agerri, G. Rigau, [Robust multilingual Named Entity Recognition with shallow semi-supervised features](http://authors.elsevier.com/a/1T5qP-c5CB15). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 238 (2016) 63-82. JCR 2015: 3.371 (Q1). [http://dx.doi.org/10.1016/j.artint.2016.05.003](http://dx.doi.org/10.1016/j.artint.2016.05.003) [Preprint PDF](https://ragerri.github.io/files/accepted-ixa-pipe-nerc.pdf)
++ R. Agerri, G. Rigau, [Robust multilingual Named Entity Recognition with shallow semi-supervised features](http://authors.elsevier.com/a/1T5qP-c5CB15). [Artificial Intelligence](http://www.journals.elsevier.com/artificial-intelligence), 238 (2016) 63-82. JCR 2015: 3.371 (Q1). [http://dx.doi.org/10.1016/j.artint.2016.05.003](http://dx.doi.org/10.1016/j.artint.2016.05.003) [[Preprint PDF]](https://ragerri.github.io/files/accepted-ixa-pipe-nerc.pdf)
 
 + Piek Vossen, Rodrigo Agerri, Itziar Aldabe, Agata Cybulska, Marieke van Erp, Antske Fokkens, Egoitz Laparra, Anne-Lyse Minard, Alessio Palmero Aprosio, German Rigau, Marco Rospocher, Roxane Segers, [NewsReader: Using knowledge resources in a cross-lingual reading machine to generate more knowledge from massive streams of news](http://www.sciencedirect.com/science/article/pii/S0950705116302271). [Knowledge-Based Systems](http://www.journals.elsevier.com/knowledge-based-systems), 110 (2016), 60-85. JCR 2015: 3.325 (Q1). [http://dx.doi.org/10.1016/j.knosys.2016.07.013](http://dx.doi.org/10.1016/j.knosys.2016.07.013) [PDF](https://www.sciencedirect.com/science/article/pii/S0950705116302271/pdfft?isDTMRedir=true&download=true)
 
@@ -84,7 +84,7 @@ nabarmenen identifikazioa denbora errealean](https://doi.org/10.1387/ekaia.22123
 
 ## 2015
 
-+ Agerri, R., Artola X., Beloki Z., Rigau G. and Soroa A. [Big Data for Natural Language Processing: A Streaming Approach](http://www.sciencedirect.com/science/article/pii/S0950705114003992). [Knowledge-Based Systems](http://www.journals.elsevier.com/knowledge-based-systems). Volume 79, May 2015, Pages 36-42, ISSN 0950-7051. 2015. JCR 2014 : 2.947. [https://doi.org/10.1016/j.knosys.2014.11.007](https://doi.org/10.1016/j.knosys.2014.11.007) [Preprint PDF](https://ragerri.github.io/files/kbs-big-data-2015.pdf)
++ Agerri, R., Artola X., Beloki Z., Rigau G. and Soroa A. [Big Data for Natural Language Processing: A Streaming Approach](http://www.sciencedirect.com/science/article/pii/S0950705114003992). [Knowledge-Based Systems](http://www.journals.elsevier.com/knowledge-based-systems). Volume 79, May 2015, Pages 36-42, ISSN 0950-7051. 2015. JCR 2014 : 2.947. [https://doi.org/10.1016/j.knosys.2014.11.007](https://doi.org/10.1016/j.knosys.2014.11.007) [[Preprint PDF]](https://ragerri.github.io/files/kbs-big-data-2015.pdf)
 
 + I. San Vicente, X. Saralegi and R. Agerri (2015) [EliXa: A modular and flexible ABSA platform](https://aclweb.org/anthology/S/S15/S15-2127.pdf). In Proceedings of the 9th International Workshop on Semantic Evaluation ([SemEval 2015](http://alt.qcri.org/semeval2015/)), Denver, USA, pp. 748-752, 2015. **Winner of the Opinion Target Extraction task**
 
