@@ -13,6 +13,10 @@ redirect_from:
 
 {% include base_path %}
 
+## 2021
+
++ **Invited talk at the Linguatec Workshop** organized by the [European POCTEFA Linguatec Project](http://www.ixa.eus/events/linguatec_03), 12 May 2021.
+
 ## 2020
 
 + **Invited talk at the CityAI Seminar Series**, organized by the [Artificial Intelligence Research Centre, CitAI at City, University of London](https://cit-ai.net/seminars-events.html), 11 October 2020.
