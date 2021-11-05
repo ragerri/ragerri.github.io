@@ -15,7 +15,9 @@ redirect_from:
 
 ## 2021
 
-+ Yi-Ling Chung, Marco Guerini and Rodrigo Agerri (2021). Multilingual Counter Narrative Type Classification. In ArgMining 2021. [[PDF preprint]](https://arxiv.org/pdf/2109.13664.pdf)
++ Iker García-Ferrero, Rodrigo Agerri and German Rigau (2021). [Benchmarking Meta-embeddings: What Works and What Does Not.](https://aclanthology.org/2021.findings-emnlp.333.pdf) Findings of the Association for Computational Linguistics: EMNLP 2021.
+
++ Yi-Ling Chung, Marco Guerini and Rodrigo Agerri (2021). [Multilingual Counter Narrative Type Classification](https://aclanthology.org/2021.argmining-1.12.pdf). In Argument Mining 2021. [[PDF preprint]](https://arxiv.org/pdf/2109.13664.pdf)
 
 + Elena Zotova, Rodrigo Agerri, German Rigau (2021). [Semi-automatic generation of multilingual datasets for stance detection in Twitter](https://authors.elsevier.com/a/1cOaa_LnESXY5N). Expert Systems with Applications, 170 (2021). JCR: 5.452 (Q1). [https://doi.org/10.1016/j.eswa.2020.114547](https://doi.org/10.1016/j.eswa.2020.114547) [[PDF preprint]](https://arxiv.org/abs/2101.11978)
 
