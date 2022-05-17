@@ -15,7 +15,7 @@ redirect_from:
 
 ## 2022
 
-Blanca Calvo Figueras, Montse Cuadros, Rodrigo Agerri (2022). [A Semantics-Aware Approach to Automated Claim Verification.](https://aclanthology.org/2022.fever-1.5.pdf) In Proceedings of the Fifth Fact Extraction and VERification Workshop (FEVER). 
++ Blanca Calvo Figueras, Montse Cuadros, Rodrigo Agerri (2022). [A Semantics-Aware Approach to Automated Claim Verification.](https://aclanthology.org/2022.fever-1.5.pdf) In Proceedings of the Fifth Fact Extraction and VERification Workshop (FEVER). 
 
 
 
