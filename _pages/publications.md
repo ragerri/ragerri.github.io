@@ -13,6 +13,12 @@ redirect_from:
 
 {% include base_path %}
 
+## 2022
+
+Blanca Calvo Figueras, Montse Cuadros, Rodrigo Agerri (2022). [A Semantics-Aware Approach to Automated Claim Verification.](https://aclanthology.org/2022.fever-1.5.pdf) In Proceedings of the Fifth Fact Extraction and VERification Workshop (FEVER). 
+
+
+
 ## 2021
 
 + Iker García-Ferrero, Rodrigo Agerri and German Rigau (2021). [Benchmarking Meta-embeddings: What Works and What Does Not.](https://aclanthology.org/2021.findings-emnlp.333.pdf) Findings of the Association for Computational Linguistics: EMNLP 2021.
