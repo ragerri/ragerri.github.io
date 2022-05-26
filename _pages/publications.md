@@ -17,6 +17,8 @@ redirect_from:
 
 + Rodrigo Agerri, Roberto Centeno, María Espinosa, Joseba Fernández de Landa, Álvaro Rodrigo (2022). [VaxxStance: A Dataset for Cross-Lingual Stance Detection on Vaccines. In ICWSM 2022 Data Challenge.](https://sites.google.com/view/icwsm2022datachallenge/home) [PDF preprint](https://ragerri.github.io/files/vaxxstance_icwsm_data_challenge2022.pdf)
 
++ Mikel Artetxe, Itziar Aldabe, Rodrigo Agerri, Olatz Perez-de-Viñaspre, Aitor Soroa (2022). [Does Corpus Quality Really Matter for Low-Resource Languages?](https://arxiv.org/pdf/2203.08111.pdf). In Arxiv.
+
 + Jeremy Barnes, Laura Oberländer, Enrica Troiano, Andrey Kutuzov, Jan Buchmannn, Rodrigo Agerri, Lilja Øvrelid, Erik Velldal (2022). [SemEval 2022 Task 10: Structured Sentiment Analysis](https://jerbarnes.github.io/downloads/SemEval_2022_Task_10.pdf). In SemEval 2022. [PDF preprint](https://jerbarnes.github.io/downloads/SemEval_2022_Task_10.pdf)
 
 + Nayla Escribano, Jon Ander González, Julen Orbegozo-Terradillos, Ainara Larrondo-Ureta, Simón Peña-Fernández,
