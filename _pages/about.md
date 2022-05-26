@@ -17,6 +17,10 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
++ **Senior Area Chair** at [Coling 2022](https://coling2022.org).
+
++ **Area Chair** at [LREC 2022](https://lrec2022.lrec-conf.org/en/committees/area-chairs/)
+
 + **[New Dataset on Stance Detection on Vaccines](https://vaxxstance.github.io/)**. We organized a shared task at IberLEF 2021 on detection favour and against stance with respect to vaccines in Basque and Spanish languages. You can check the [VaxxStance shared task overview paper here](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6387/3807).
 
 + **[New paper on Social Analysis of Basque Speakers in Twitter](https://www.tandfonline.com/eprint/HTDYHF8ETG6B9HHJZ9T2/full?target=10.1080/01434632.2021.1962331)** published in the Journal of Multilingual and Multicultural Development.
