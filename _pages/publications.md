@@ -15,6 +15,8 @@ redirect_from:
 
 ## 2022
 
++ Rodrigo Agerri, Roberto Centeno, María Espinosa, Joseba Fernández de Landa, Álvaro Rodrigo (2022). [VaxxStance: A Dataset for Cross-Lingual Stance Detection on Vaccines. In ICWSM 2022 Data Challenge.](https://sites.google.com/view/icwsm2022datachallenge/home). [PDF preprint](https://ragerri.github.io/files/vaxxstance_icwsm_data_challenge2022.pdf)
+
 + Blanca Calvo Figueras, Montse Cuadros, Rodrigo Agerri (2022). [A Semantics-Aware Approach to Automated Claim Verification.](https://aclanthology.org/2022.fever-1.5.pdf) In Proceedings of the Fifth Fact Extraction and VERification Workshop (FEVER). 
 
 
