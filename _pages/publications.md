@@ -22,13 +22,12 @@ redirect_from:
 + Jeremy Barnes, Laura Oberländer, Enrica Troiano, Andrey Kutuzov, Jan Buchmannn, Rodrigo Agerri, Lilja Øvrelid, Erik Velldal (2022). [SemEval 2022 Task 10: Structured Sentiment Analysis](https://jerbarnes.github.io/downloads/SemEval_2022_Task_10.pdf). In SemEval 2022. [PDF preprint](https://jerbarnes.github.io/downloads/SemEval_2022_Task_10.pdf)
 
 + Nayla Escribano, Jon Ander González, Julen Orbegozo-Terradillos, Ainara Larrondo-Ureta, Simón Peña-Fernández,
-Olatz Perez-de-Viñaspre and Rodrigo Agerri (2022). [BasqueParl: A Bilingual Corpus of Basque Parliamentary Transcriptions](https://arxiv.org/pdf/2205.01506.pdf). In LREC 2022.
+Olatz Perez-de-Viñaspre and Rodrigo Agerri (2022). [BasqueParl: A Bilingual Corpus of Basque Parliamentary Transcriptions](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.361.pdf). In LREC 2022.
 
 + Gorka Urbizu, Iñaki San Vicente, Xabier Saralegi, Rodrigo Agerri and Aitor Soroa (2022). [BasqueGLUE: A Natural Language Understanding Benchmark for Basque](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.172.pdf). In LREC 2022.
  
 
 + Blanca Calvo Figueras, Montse Cuadros, Rodrigo Agerri (2022). [A Semantics-Aware Approach to Automated Claim Verification.](https://aclanthology.org/2022.fever-1.5.pdf) In Proceedings of the Fifth Fact Extraction and VERification Workshop (FEVER). 
-
 
 
 ## 2021
