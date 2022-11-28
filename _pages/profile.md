@@ -41,7 +41,7 @@ Doctor in Computer Science (PhD), City, University of London, 2007.
 
 ## Selected Research Projects {#projects}
 
-+ 01/10/2022-30/09/2025. Disargue: Few-shot Learning and Argumentation to Detect and Fight Misinformation in Social Media. Funding Entity: Programa Transición Digital y Ecológica (TED 2021), Ministerio de Ciencia, Innovación y Universidades. Ref: TED2021-130810B-C21. Role: Principal Investigator.
++ 01/12/2022-30/11/2024. Disargue: Few-shot Learning and Argumentation to Detect and Fight Misinformation in Social Media. Funding Entity: Programa Transición Digital y Ecológica (TED 2021), Ministerio de Ciencia, Innovación y Universidades. Ref: TED2021-130810B-C21. Role: Principal Investigator.
 + 01/10/2022-30/09/2025. DeepKnowledge: Deep Language Models for Understanding and Reasoning with Multilingual Content. Funding Entity: Programa Generación del Conocimiento, Ministerio de Ciencia, Innovación y Universidades. Ref: PID2021-127777OB-C21. Role: Principal Investigator.
 + 01/04/2021-30/03/2024. ANTIDOTE. ArgumeNtaTIon-Driven explainable artificial intelligence fOr digiTal mEdicine. Funding Entity: CHIST-ERA - INT-Acciones de Programación Conjunta Internacional (MINECO) 2020. Ref: PCI2020-120717-2. Role: Principal Investigator.
 + 01/07/2019-30/06/2022. DeepReading: Mining, Understanding, and Reasoning with Multilingual Content. Funding Entity: Programa Retos, Ministerio de Ciencia, Innovación y Universidades. (co-PI with German Rigau)
