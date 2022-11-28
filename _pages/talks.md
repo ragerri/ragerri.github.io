@@ -13,6 +13,11 @@ redirect_from:
 
 {% include base_path %}
 
+## 2022
+
++ **Invited talk at the Workshop on Factuality**, held at the [Barcelona University on 8th of June](https://tagfactworkshop.wordpress.com/). Title:
+Highly arguable! Progress and shortcomings in detecting and countering misinformation in social media.
+
 ## 2021
 
 + **Invited talk at the Linguatec Workshop** organized by the [European POCTEFA Linguatec Project](http://www.ixa.eus/events/linguatec_03), 12 May 2021.
