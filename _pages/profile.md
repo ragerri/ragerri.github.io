@@ -13,9 +13,9 @@ redirect_from:
 Doctor in Computer Science (PhD), City, University of London, 2007.
 
 1. [Short Bio](#bio)
-2. [Projects](#projects)
-3. [Alumni](#alumni)
-3. [Peer review activities](#review)
+2. [Alumni](#alumni)
+3. [Projects](#projects)
+4. [Peer review activities](#review)
 
 ## Short Bio {#bio}
 
