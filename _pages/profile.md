@@ -28,18 +28,6 @@ Doctor in Computer Science (PhD), City, University of London, 2007.
 + December 2005-December 2008, Research Fellow, [School of Computer Science](http://www.cs.bham.ac.uk), [University of Birmingham](http://www.bham.ac.uk), B15 2TT Birmingham, UK. Research on Computational Semantics and Figurative Language.
 + 2002-2006 Research Student and Lab Tutor, [Department of Computing](https://www.city.ac.uk/department-computer-science), [City University](http://www.city.ac.uk), EC1V 0HB London, UK. Research on normative aspects of language for the specification of normative protocols of communication. (PhD Thesis).
 
-## Participation in Research Projects {#projects}
-
-+ 
-+ Researcher in the [NewsReader project: Building structured event Indexes of large volumes of financial and economic Data for Decision Making](http://www.newsreader-project.eu/), funded by the Grant agreement no.: 316404 – Co-funded by the EU - FP7 Work Programme Call FP7-ICT-2011-8
-+ Researcher,  [OpeNER project: Open Polarity Enhanced Named Entity Recognition](http://www.opener-project.eu/), funded by the FP7-2011-ICT-SME-DCL call on Sharing Language Resources.
-+ Researcher in the [SKATER project](http://nlp.lsi.upc.edu/skater/): Grant agreement TIN2012-38584-C06-01 funded by the Spanish Ministry of Science and Innovation.
-+ Researcher in the [PATHS Project: Personalised Access to Cultural Heritage Spaces](http://www.paths-project.eu/). PATHS was funded by the European Commission FP7 under Digital Libraries and Digital Preservation programme  which started on January 1st 2010 and run for three years.
-+ Consultant at [Vicomtech-IK4](http://www.vicomtech.org) for the [SUMAT CIP-ICT-PSP 270919 European project](http://www.sumat-project.eu/) (2011-2012).
-+ Technical Coordinator of [SUMAT CIP-ICT-PSP 270919 European project](http://www.sumat-project.eu/).
-+ Torres Quevedo Contract: Aplicación del Procesamiento del Lenguage Natural a la Innovación Empresarial. (2010-2011).
-+ Previous research projects: [Etortek Berbatek](http://www.spri.eus/euskadinnova/es/innovacion-tecnologica/noticias/berbatek-aspecto-practico-tecnologias-linguisticas-multimedia/8427.aspx), [MAVIR](http://mavir2006.mavir.net/), [ESRC/EPSRC E-drama](http://www.cs.bham.ac.uk/research/projects/edrama/), EPSRC [ATT-Meta](http://www.cs.bham.ac.uk/~jab/ATT-Meta/)
-
 ## Alumni {#alumni}
 
 + Elisa Sanchez-Bayona, PhD, "Metaphor Processing from a Multilingual Perspective".
@@ -48,7 +36,26 @@ Doctor in Computer Science (PhD), City, University of London, 2007.
 + Olia Toporkov, PhD, "Multilingual and Robust Cross-Domain Lemmatization".
 + Joseba Fernandez de Landa, PhD, "Multilingual Political analysis in Twitter".
 + Iker García-Ferrero, PhD, "Crosslingual approaches for semantic processing" (co-supervisor German Rigau)".
-+ Iñaki San Vicente. PhD 2019, "Multilingual Aspect-based Sentiment Analysis" (now at [Elhuyar](https://www.orai.eus/es/orai/equipo).
++ Iñaki San Vicente. PhD 2019, "Multilingual Aspect-based Sentiment Analysis" (now at [Elhuyar](https://www.orai.eus/es/orai/equipo)).
+
+
+## Selected Research Projects {#projects}
+
++ 01/10/2022-30/09/2025. Disargue: Few-shot Learning and Argumentation to Detect and Fight Misinformation in Social Media. Funding Entity: Programa Transición Digital y Ecológica (TED 2021), Ministerio de Ciencia, Innovación y Universidades. Ref: TED2021-130810B-C21. Role: Principal Investigator.
++ 01/10/2022-30/09/2025. DeepKnowledge: Deep Language Models for Understanding and Reasoning with Multilingual Content. Funding Entity: Programa Generación del Conocimiento, Ministerio de Ciencia, Innovación y Universidades. Ref: PID2021-127777OB-C21. Role: Principal Investigator.
++ 01/04/2021-30/03/2024. ANTIDOTE. ArgumeNtaTIon-Driven explainable artificial intelligence fOr digiTal mEdicine. Funding Entity: CHIST-ERA - INT-Acciones de Programación Conjunta Internacional (MINECO) 2020. Ref: PCI2020-120717-2. Role: Principal Investigator.
++ 01/07/2019-30/06/2022. DeepReading: Mining, Understanding, and Reasoning with Multilingual Content. Funding Entity: Programa Retos, Ministerio de Ciencia, Innovación y Universidades. (co-PI with German Rigau)
++ 01/02/2020-28/02/2022. “Tools for the analysis of parliamentary discourses: polarization, subjectivity and affectivity in the post-truth era”. Entidad Financiadora: UPV/EHU Proyectos de Colaboración. Role: co-PI (with Simon Peña).
++ 18/02/2019-17/02/2024. “Tecnología lingüística para la extracción de información multilingüe basada en conocimiento semántico” (Proyecto Ramón y Cajal RYC-2017-23647). Funding Entity: Ministerio de Ciencia, Innovación y Universidades y la Agencia Estatal de Investigación.
++ 28/02/2018-30/05/2018. “Sharing IXA pipes in the OpenMinTeD platform” (H2020-eINFRA14/06). Funding Entity: H2020, European Commission.
++ Researcher in the [NewsReader project: Building structured event Indexes of large volumes of financial and economic Data for Decision Making](http://www.newsreader-project.eu/), funded by the Grant agreement no.: 316404 – Co-funded by the EU - FP7 Work Programme Call FP7-ICT-2011-8
++ Researcher,  [OpeNER project: Open Polarity Enhanced Named Entity Recognition](http://www.opener-project.eu/), funded by the FP7-2011-ICT-SME-DCL call on Sharing Language Resources.
++ Researcher in the [PATHS Project: Personalised Access to Cultural Heritage Spaces](http://www.paths-project.eu/). PATHS was funded by the European Commission FP7 under Digital Libraries and Digital Preservation programme  which started on January 1st 2010 and run for three years.
++ Consultant at [Vicomtech-IK4](http://www.vicomtech.org) for the [SUMAT CIP-ICT-PSP 270919 European project](http://www.sumat-project.eu/) (2011-2012).
++ Technical Coordinator of [SUMAT CIP-ICT-PSP 270919 European project](http://www.sumat-project.eu/).
++ Torres Quevedo Contract: Aplicación del Procesamiento del Lenguage Natural a la Innovación Empresarial. (2010-2011).
++ Previous research projects: [Etortek Berbatek](http://www.spri.eus/euskadinnova/es/innovacion-tecnologica/noticias/berbatek-aspecto-practico-tecnologias-linguisticas-multimedia/8427.aspx), [MAVIR](http://mavir2006.mavir.net/), [ESRC/EPSRC E-drama](http://www.cs.bham.ac.uk/research/projects/edrama/), EPSRC [ATT-Meta](http://www.cs.bham.ac.uk/~jab/ATT-Meta/)
+
 
 ## Reviewing Activities {#review}
 
