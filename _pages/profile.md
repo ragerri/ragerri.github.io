@@ -14,7 +14,7 @@ Doctor in Computer Science (PhD), City, University of London, 2007.
 
 1. [Short Bio](#bio)
 2. [Projects](#projects)
-3. [Talks and Invited Seminars](#talks)
+3. [Alumni](#alumni)
 3. [Peer review activities](#review)
 
 ## Short Bio {#bio}
@@ -30,6 +30,7 @@ Doctor in Computer Science (PhD), City, University of London, 2007.
 
 ## Participation in Research Projects {#projects}
 
++ 
 + Researcher in the [NewsReader project: Building structured event Indexes of large volumes of financial and economic Data for Decision Making](http://www.newsreader-project.eu/), funded by the Grant agreement no.: 316404 – Co-funded by the EU - FP7 Work Programme Call FP7-ICT-2011-8
 + Researcher,  [OpeNER project: Open Polarity Enhanced Named Entity Recognition](http://www.opener-project.eu/), funded by the FP7-2011-ICT-SME-DCL call on Sharing Language Resources.
 + Researcher in the [SKATER project](http://nlp.lsi.upc.edu/skater/): Grant agreement TIN2012-38584-C06-01 funded by the Spanish Ministry of Science and Innovation.
@@ -39,12 +40,23 @@ Doctor in Computer Science (PhD), City, University of London, 2007.
 + Torres Quevedo Contract: Aplicación del Procesamiento del Lenguage Natural a la Innovación Empresarial. (2010-2011).
 + Previous research projects: [Etortek Berbatek](http://www.spri.eus/euskadinnova/es/innovacion-tecnologica/noticias/berbatek-aspecto-practico-tecnologias-linguisticas-multimedia/8427.aspx), [MAVIR](http://mavir2006.mavir.net/), [ESRC/EPSRC E-drama](http://www.cs.bham.ac.uk/research/projects/edrama/), EPSRC [ATT-Meta](http://www.cs.bham.ac.uk/~jab/ATT-Meta/)
 
-## Talks and Seminars {#talks}
+## Alumni {#alumni}
 
-+ TODO
++ Elisa Sanchez-Bayona, PhD, "Metaphor Processing from a Multilingual Perspective".
++ Nayla Escribano, PhD, "Multilingual Fiction Generation" (co-supervisor German Rigau).
++ Maxime Masson, PhD, "Augmented Proxemic services for Cultural Heritage and Tourism practices" (co-supervisor Christian Sallaberry).
++ Olia Toporkov, PhD, "Multilingual and Robust Cross-Domain Lemmatization".
++ Joseba Fernandez de Landa, PhD, "Multilingual Political analysis in Twitter".
++ Iker García-Ferrero, PhD, "Crosslingual approaches for semantic processing" (co-supervisor German Rigau)".
++ Iñaki San Vicente. PhD 2019, "Multilingual Aspect-based Sentiment Analysis" (now at [Elhuyar](https://www.orai.eus/es/orai/equipo).
 
 ## Reviewing Activities {#review}
 
++ Senior Area Chair at [COLING 2022](https://coling2022.org/committee02)
++ Senior Area Chair at [LREC 2022](https://lrec2022.lrec-conf.org/en/committees/area-chairs/)
++ Usual reviewer and programme committee member at ACL Rolling Review and ACL conferences (ACL, EMNLP, EACL, CoNLL, NAACL...)
++ Reviewer and PC member at LREC, Coling, WASSA, TSD and other workshops.
++ Associate Editor at [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications).
 + Committee Member at the [International Conference on Computational Semantics](http://iwcs2015.github.io/) (IWCS 2015).
 + Reviewer for [Knowledge Based Systems](http://www.journals.elsevier.com/knowledge-based-systems/)
 + Reviewer for [IEEE Inteligent Systems](http://www.computer.org/web/computingnow/intelligentsystems)
