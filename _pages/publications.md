@@ -21,6 +21,8 @@ redirect_from:
 
 + Mikel Artetxe, Itziar Aldabe, Rodrigo Agerri, Olatz Perez-de-Viñaspre, Aitor Soroa (2022). [Does Corpus Quality Really Matter for Low-Resource Languages?](https://arxiv.org/pdf/2203.08111.pdf). In EMNLP 2022.
 
++ Joseba Fernandez de Landa and Rodrigo Agerri (2022). [Relational Embeddings for Language Independent Stance Detection](https://arxiv.org/pdf/2210.05715). In Arxiv.
+
 + Maxime Masson, Christian Sallaberry, Rodrigo Agerri, Marie-Noelle Bessagnet, Philippe Roose, Annig Le Parc Lacayrelle (2022). [A Domain-Independent Method for Thematic Dataset Building from Social Media: The Case of Tourism on Twitter](https://doi.org/10.1007/978-3-031-20891-1_2). In: Chbeir, R., Huang, H., Silvestri, F., Manolopoulos, Y., Zhang, Y. (eds) Web Information Systems Engineering - WISE 2022. WISE 2022. Lecture Notes in Computer
 Science, vol 13724. Springer, Cham.
 
