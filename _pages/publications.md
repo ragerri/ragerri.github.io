@@ -15,9 +15,16 @@ redirect_from:
 
 ## 2022
 
-+ Rodrigo Agerri, Roberto Centeno, María Espinosa, Joseba Fernández de Landa, Álvaro Rodrigo (2022). [VaxxStance: A Dataset for Cross-Lingual Stance Detection on Vaccines. In ICWSM 2022 Data Challenge.](https://sites.google.com/view/icwsm2022datachallenge/home) [PDF preprint](https://ragerri.github.io/files/vaxxstance_icwsm_data_challenge2022.pdf)
++ Elisa Sanchez-Bayona and Rodrigo Agerri (2022). [Leveraging a New Spanish Corpus for Multilingual and Crosslingual Metaphor Detection](https://arxiv.org/pdf/2210.10358). In CoNLL 2022.
 
-+ Mikel Artetxe, Itziar Aldabe, Rodrigo Agerri, Olatz Perez-de-Viñaspre, Aitor Soroa (2022). [Does Corpus Quality Really Matter for Low-Resource Languages?](https://arxiv.org/pdf/2203.08111.pdf). In Arxiv.
++ Iker García-Ferrero, Rodrigo Agerri and German Rigau (2022). [Model and Data Transfer for Cross-Lingual Sequence Labelling in Zero-Resource Settings](https://arxiv.org/pdf/2210.12623). Findings of the Association for Computational Linguistics: EMNLP 2022.
+
++ Mikel Artetxe, Itziar Aldabe, Rodrigo Agerri, Olatz Perez-de-Viñaspre, Aitor Soroa (2022). [Does Corpus Quality Really Matter for Low-Resource Languages?](https://arxiv.org/pdf/2203.08111.pdf). In EMNLP 2022.
+
++ Maxime Masson, Christian Sallaberry, Rodrigo Agerri, Marie-Noelle Bessagnet, Philippe Roose, Annig Le Parc Lacayrelle (2022). [A Domain-Independent Method for Thematic Dataset Building from Social Media: The Case of Tourism on Twitter](https://doi.org/10.1007/978-3-031-20891-1_2). In: Chbeir, R., Huang, H., Silvestri, F., Manolopoulos, Y., Zhang, Y. (eds) Web Information Systems Engineering - WISE 2022. WISE 2022. Lecture Notes in Computer
+Science, vol 13724. Springer, Cham.
+
++ Rodrigo Agerri, Roberto Centeno, María Espinosa, Joseba Fernández de Landa, Álvaro Rodrigo (2022). [VaxxStance: A Dataset for Cross-Lingual Stance Detection on Vaccines. In ICWSM 2022 Data Challenge.](https://sites.google.com/view/icwsm2022datachallenge/home) [PDF preprint](https://ragerri.github.io/files/vaxxstance_icwsm_data_challenge2022.pdf)
 
 + Jeremy Barnes, Laura Oberländer, Enrica Troiano, Andrey Kutuzov, Jan Buchmannn, Rodrigo Agerri, Lilja Øvrelid, Erik Velldal (2022). [SemEval 2022 Task 10: Structured Sentiment Analysis](https://jerbarnes.github.io/downloads/SemEval_2022_Task_10.pdf). In SemEval 2022. [PDF preprint](https://jerbarnes.github.io/downloads/SemEval_2022_Task_10.pdf)
 
@@ -26,7 +33,6 @@ Olatz Perez-de-Viñaspre and Rodrigo Agerri (2022). [BasqueParl: A Bilingual Cor
 
 + Gorka Urbizu, Iñaki San Vicente, Xabier Saralegi, Rodrigo Agerri and Aitor Soroa (2022). [BasqueGLUE: A Natural Language Understanding Benchmark for Basque](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.172.pdf). In LREC 2022.
  
-
 + Blanca Calvo Figueras, Montse Cuadros, Rodrigo Agerri (2022). [A Semantics-Aware Approach to Automated Claim Verification.](https://aclanthology.org/2022.fever-1.5.pdf) In Proceedings of the Fifth Fact Extraction and VERification Workshop (FEVER). 
 
 
