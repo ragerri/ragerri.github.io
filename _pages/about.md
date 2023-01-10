@@ -15,6 +15,8 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
++ **Senior Action Editor** at ACL Rolling Review from December 2022.
+
 + **[New paper on Multilingual Metaphor Detection](https://arxiv.org/pdf/2210.10358)** to be presented at CoNLL 2022.
 + **2 papers accepted at EMNLP 2022**. Check [them out](https://ragerri.github.io/publications/)!
 
