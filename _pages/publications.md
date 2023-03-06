@@ -35,7 +35,10 @@ Olatz Perez-de-Viñaspre and Rodrigo Agerri (2022). [BasqueParl: A Bilingual Cor
 
 + Gorka Urbizu, Iñaki San Vicente, Xabier Saralegi, Rodrigo Agerri and Aitor Soroa (2022). [BasqueGLUE: A Natural Language Understanding Benchmark for Basque](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.172.pdf). In LREC 2022.
  
-+ Blanca Calvo Figueras, Montse Cuadros, Rodrigo Agerri (2022). [A Semantics-Aware Approach to Automated Claim Verification.](https://aclanthology.org/2022.fever-1.5.pdf) In Proceedings of the Fifth Fact Extraction and VERification Workshop (FEVER). 
++ Blanca Calvo Figueras, Montse Cuadros, Rodrigo Agerri (2022). [A Semantics-Aware Approach to Automated Claim Verification.](https://aclanthology.org/2022.fever-1.5.pdf) In Proceedings of the Fifth Fact Extraction and VERification Workshop (FEVER).
+
++ Nayla Escribano, Jon Ander González, Julen Orbegozo-Terradillos, Ainara Larrondo-Ureta, Simón Peña-Fernández, Olatz Pérez-de-Viñaspre, Rodrigo Agerri (2022). [Euskararen erabilera Eusko Legebiltzarreko debateetan (2012-2020)](https://ojs.eusko-ikaskuntza.eus/index.php/mediatika/article/view/1035). In Mediatika, 19, 163-178.
+
 
 
 ## 2021
