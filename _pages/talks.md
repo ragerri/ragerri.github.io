@@ -13,6 +13,10 @@ redirect_from:
 
 {% include base_path %}
 
+## 2023
+
++ **Interview for AlgorithmWatch**, ChatGPT-like models boom, but small languages remain in shadows, written by Naiara Bello. [https://algorithmwatch.org/en/chatgpt-models-and-small-languages/](https://algorithmwatch.org/en/chatgpt-models-and-small-languages/).
+
 ## 2022
 
 + **Invited talk at the Workshop on Factuality**, held at the [Barcelona University on 8th of June](https://tagfactworkshop.wordpress.com/). Title:
