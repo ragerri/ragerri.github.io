@@ -13,7 +13,6 @@ redirect_from:
 Doctor in Computer Science (PhD), City, University of London, 2007.
 
 1. [Short Bio](#bio)
-2. [Alumni](#alumni)
 3. [Projects](#projects)
 4. [Peer review activities](#review)
 
@@ -27,17 +26,6 @@ Doctor in Computer Science (PhD), City, University of London, 2007.
 + January-October 2009: Research Fellow, GSI Group, [Universidad Politécnica de Madrid](http://www.upm.es) (UPM), Madrid, Spain, Consorcio Mavir. Research on Computational Semantics, Sentiment Analysis and application of linguistic techniques for Information Retrieval.
 + December 2005-December 2008, Research Fellow, [School of Computer Science](http://www.cs.bham.ac.uk), [University of Birmingham](http://www.bham.ac.uk), B15 2TT Birmingham, UK. Research on Computational Semantics and Figurative Language.
 + 2002-2006 Research Student and Lab Tutor, [Department of Computing](https://www.city.ac.uk/department-computer-science), [City University](http://www.city.ac.uk), EC1V 0HB London, UK. Research on normative aspects of language for the specification of normative protocols of communication. (PhD Thesis).
-
-## Alumni {#alumni}
-
-+ Elisa Sanchez-Bayona, PhD, "Metaphor Processing from a Multilingual Perspective".
-+ Nayla Escribano, PhD, "Multilingual Fiction Generation" (co-supervisor German Rigau).
-+ Maxime Masson, PhD, "Augmented Proxemic services for Cultural Heritage and Tourism practices" (co-supervisor Christian Sallaberry).
-+ Olia Toporkov, PhD, "Multilingual and Robust Cross-Domain Lemmatization".
-+ Joseba Fernandez de Landa, PhD, "Multilingual Political analysis in Twitter".
-+ Iker García-Ferrero, PhD, "Crosslingual approaches for semantic processing" (co-supervisor German Rigau)".
-+ Iñaki San Vicente. PhD 2019, "Multilingual Aspect-based Sentiment Analysis" (now at [Elhuyar](https://www.orai.eus/es/orai/equipo)).
-
 
 ## Selected Research Projects {#projects}
 
@@ -59,6 +47,7 @@ Doctor in Computer Science (PhD), City, University of London, 2007.
 
 ## Reviewing Activities {#review}
 
++ Senior Action Editor at ACL Rolling Review since December 2022.
 + Senior Area Chair at [COLING 2022](https://coling2022.org/committee02)
 + Senior Area Chair at [LREC 2022](https://lrec2022.lrec-conf.org/en/committees/area-chairs/)
 + Usual reviewer and programme committee member at ACL Rolling Review and ACL conferences (ACL, EMNLP, EACL, CoNLL, NAACL...)
