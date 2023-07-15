@@ -27,3 +27,9 @@ redirect_from:
 + Iker García-Ferrero, PhD, "Crosslingual approaches for semantic processing" (co-supervisor German Rigau)", funded by the Basque Government Predoc Programme.
 + Iñaki San Vicente. PhD 2019, "Multilingual Aspect-based Sentiment Analysis" (now at [Elhuyar](https://www.orai.eus/es/orai/equipo)).
 
+## Teaching {#teaching}
+
++ Natural Language Processing (3 cr.), [Máster in Computational Engineering and Intelligent Systems](https://www.ehu.eus/es/web/master/master-ingenieria-computacional-sistemas-inteligentes)
++ Applications (I): Introduction to NLP (3 cr.), [Máster in Language Analysis and Processing HAP/LAP](http://ixa.si.ehu.es/master/index.php?lang=en) and [Erasmus Mundus Master in Language
+and Communication Technologies (LCT)](http://ixa2.si.ehu.eus/erasmusmundus/)
++ [ILTAPP: Introduction to Language Technology Applications](https://www.ixa.eus/iltapp/), a spin-off of Applications (I) usually held as a summer course introductory course to Applications and NLP. Best done as part of the [NLP Acceleration](http://www.ixa.eus/nlpacceleration/) summer school offered by HiTZ.
