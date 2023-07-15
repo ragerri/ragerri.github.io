@@ -22,7 +22,7 @@ redirect_from:
 + Rodrigo Agerri, Iñigo Alonso, Aitziber Atutxa, Ander Berrondo, Ainara Estarrona, Iker Garcia-Ferrero, Iakes Goenaga, Koldo Gojenola, Maite Oronoz, Igor Perez-Tejedor, German Rigau and Anar Yeginbergenova (2023). [HiTZ@Antidote: Argumentation-driven Explainable Artificial Intelligence for Digital Medicine](https://arxiv.org/abs/2306.06029). In SEPLN 2023: 39th International Conference of the Spanish Society for Natural Language Processing.
 + Joseba Fernandez de Landa, Rodrigo Agerri (2023). HiTZ-IXA at PoliticES 2023: Document and Sentence Level Text Representations for Demographic Characteristics and Political Ideology Detection. In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023) co-located with the Conference of the Spanish Society for Natural Language Processing
 (SEPLN 2023), Jaén, Spain, September 2023.
-+ Masson, M., Roose, P., Sallaberry, C., Agerri, R., Bessagnet, MN., Lacayrelle, A.L.P. (2023). [APs: A Proxemic Framework for Social Media Interactions Modeling and Analysis](ttps://doi.org/10.1007/978-3-031-30047-9_23). In: Crémilleux, B., Hess, S., Nijssen, S. (eds) Advances in Intelligent Data Analysis XXI. IDA 2023. Lecture Notes in Computer Science, vol 13876. Springer, Cham.
++ Masson, M., Roose, P., Sallaberry, C., Agerri, R., Bessagnet, MN., Lacayrelle, A.L.P. (2023). [APs: A Proxemic Framework for Social Media Interactions Modeling and Analysis](https://doi.org/10.1007/978-3-031-30047-9_23). In: Crémilleux, B., Hess, S., Nijssen, S. (eds) Advances in Intelligent Data Analysis XXI. IDA 2023. Lecture Notes in Computer Science, vol 13876. Springer, Cham.
 
 ## 2022
 
