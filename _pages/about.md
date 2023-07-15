@@ -9,11 +9,25 @@ redirect_from:
 ---
 
 
-I am Ramon y Cajal Research Fellow (tenure-track) at [IXA Group](http://ixa.eus), part of the [HiTZ Centre](http://hitz.eus) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus). PhD in Computer Science at City, University of London (2007), I have since been working on Natural Language Processing at several British and Spanish institutions, including a two year stint at the industry as research project director. I have been involved in more than 20 research projects funded by the European Commission, UK research councils, Spanish Ministry of Science and Basque Goverment. I was technical coordinator of the European project [SUMAT](http://www.fp7-sumat-project.eu) and got awarded a Torres Quevedo Research Fellowship.
+I am Ramon y Cajal Research Fellow (tenure-track) at [IXA Group](http://ixa.eus), part of the [HiTZ Centre](http://hitz.eus) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus), where I am head of the Text Analysis unit. I got a PhD in Computer Science at City, University of London (2007), and I have since been working on Natural Language Processing at several British and Spanish institutions, including a two year stint at the industry as research project director. I have been involved as PI or researcher in more than 40 research projects funded by the European Commission, UK research councils, Spanish Ministry of Science and Basque Goverment.
 
-Currently my research is focused on Computational Semantics and Information Extraction (Named Entity Recognition, Opinion Mining, Fake News and Stance detection, etc.), especially in multilingual and cross-lingual approaches. I am the creator and main developer of [IXA pipes](http://ixa2.si.ehu.es/ixa-pipes), a set of ready to use multilingual tools for linguistic processing. I am also PMC and committer in the [OpenNLP project of the Apache Software Foundation](https://opennlp.apache.org/).
+Currently my research is focused on Computational Semantics and Information Extraction, with a strong focus multilingual and cross-lingual approaches. I was the creator and main developer of [IXA pipes](http://ixa2.si.ehu.es/ixa-pipes), a set of ready to use multilingual tools for linguistic processing. I am also PMC and committer in the [OpenNLP project of the Apache Software Foundation](https://opennlp.apache.org/).
 
 ## Latest News
+
++ Organizing the [Workshop on NLP applied to Misinformation](https://sites.google.com/view/nlp-misinfo-2023/) at the annual conference of the [Spanish Society for Natural Language Processing](http://sepln2023.sepln.org/).
+
++ Organizing the [TESTLINK@IberLEF 2023](https://e3c.fbk.eu/testlinkiberlef) to be held at the annual conference of the [Spanish Society for Natural Language Processing](http://sepln2023.sepln.org/).
+
++ **[New paper on Scaling Laws for BERT in Low-Resource Settings](https://aclanthology.org/2023.findings-acl.492/)** at ACL Findings 2023.
+
++ **[New paper on Lessons Learned from the Evaluation of Spanish Language Models](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/download/6487/3894)** published at Procesamiento del Lenguaje Natural, Revista nº 70, marzo de 2023, pp. 157-170.
+
++ **[New paper on multilingual temporal processing](https://doi.org/10.1016/j.knosys.2023.110612)** published at Expert Systems with Applications, Elsevier.
+
++ **New project funded!!** DISARGUE: Few-shot Learning and Argumentation to Detect and Fight Misinformation in Social Media, Funding Entity: Programa Transición Digital y Ecológica (TED 2021), Ministerio de Ciencia, Innovación y Universidades. Funding: €200.330. Ref: TED2021-130810B-C21. Role: Principal Investigator.
+
++ **New project funded!!** DeepKnowledge: Deep Language Models for Understanding and Reasoning with Multilingual Content.Funding Entity: Programa Generación del Conocimiento, Ministerio de Ciencia, Innovación y Universidades. Funding: €295.119. Ref: PID2021-127777OB-C21. Role: Principal Investigator.
 
 + **Senior Action Editor** at ACL Rolling Review from December 2022.
 
@@ -23,6 +37,8 @@ Currently my research is focused on Computational Semantics and Information Extr
 + **Senior Area Chair** at [Coling 2022](https://coling2022.org).
 
 + **Area Chair** at [LREC 2022](https://lrec2022.lrec-conf.org/en/committees/area-chairs/)
+
++ **New project funded!!** ANTIDOTE. ArgumeNtaTIon-Driven explainable artificial intelligence fOr digiTal mEdicine.Funding Entity: CHIST-ERA - INT-Acciones de Programación Conjunta Internacional (MINECO) 2020. Funding: €148500. Ref: PCI2020-120717-2. Role: Principal Investigator (Spanish partner).
 
 + **[New Dataset on Stance Detection on Vaccines](https://vaxxstance.github.io/)**. We organized a shared task at IberLEF 2021 on detection favour and against stance with respect to vaccines in Basque and Spanish languages. You can check the [VaxxStance shared task overview paper here](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6387/3807).
 
