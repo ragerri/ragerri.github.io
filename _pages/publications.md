@@ -15,6 +15,7 @@ redirect_from:
 
 ## 2023
 
++ Iker García-Ferrero, Rodrigo Agerri, German Rigau (2023). [T-Projection: High Quality Annotation Projection for Sequence Labeling Tasks](https://arxiv.org/abs/2212.10548). In Findings of EMNLP 2023.
 + Rodrigo Agerri and Eneko Agirre (2023). [Lessons learned from the evaluation of Spanish Language Models](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/download/6487/3894). Procesamiento del Lenguaje Natural (70), pp 157-170. https://doi.org/10.26342/2023-70-13.
 + Gorka Urbizu, Iñaki San Vicente, Xabier Saralegi, Rodrigo Agerri, Aitor Soroa (2023). [Scaling Laws for BERT in Low-Resource Settings](https://aclanthology.org/2023.findings-acl.492/). Findings of the Association for Computational Linguistics: ACL 2023. SCIE Class 1.
 + Nayla Escribano, German Rigau, Rodrigo Agerri (2023). [A modular approach for multilingual timex detection and normalization using deep learning and grammar-based methods](https://doi.org/10.1016/j.knosys.2023.110612). Knowledge-Based Systems 273. JCR: 8.139 (Q1)
