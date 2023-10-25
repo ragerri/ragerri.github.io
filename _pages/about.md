@@ -14,6 +14,11 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
++ **[New paper on Neural Contextual Lemmatization]**(https://ragerri.github.io/files/toporkov-agerri-single-spaced.pdf) published in Computational Linguistics (to be presented at EMNLP 2023).
+
++ **[New paper on Cross-Lingual Annotation Projection using text-to-text models]**(https://ragerri.github.io/files/t-projection-camera-ready.pdf) (Findings of EMNLP 2023).
+
++ **Senior Area Chair, Information Extraction track** at [EACL 2024](https://2024.eacl.org/). 
 + Organizing the [Workshop on NLP applied to Misinformation](https://sites.google.com/view/nlp-misinfo-2023/) at the annual conference of the [Spanish Society for Natural Language Processing](http://sepln2023.sepln.org/).
 
 + Organizing the [TESTLINK@IberLEF 2023](https://e3c.fbk.eu/testlinkiberlef) to be held at the annual conference of the [Spanish Society for Natural Language Processing](http://sepln2023.sepln.org/).
