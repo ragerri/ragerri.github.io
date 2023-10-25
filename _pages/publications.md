@@ -17,22 +17,22 @@ redirect_from:
 
 + Olia Toporkov and Rodrigo Agerri (2023). [On the Role of Morphological Information for Contextual Lemmatization](https://ragerri.github.io/files/toporkov-agerri-single-spaced.pdf). In [Computational Linguistics](https://direct.mit.edu/coli) (MIT Press). To be presented at the main conference of EMNLP 2023. 
 +  Iker García-Ferrero, Rodrigo Agerri, German Rigau (2023). [T-Projection: High Quality Annotation Projection for Sequence Labeling Tasks](https://ragerri.github.io/files/t-projection-camera-ready.pdf). Findings of the Association for Computational Linguistics: EMNLP 2023.
-+ Rodrigo Agerri and Eneko Agirre (2023). [Lessons learned from the evaluation of Spanish Language Models](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/download/6487/3894). Procesamiento del Lenguaje Natural (70), pp 157-170. https://doi.org/10.26342/2023-70-13.
++ Rodrigo Agerri and Eneko Agirre (2023). [Lessons learned from the evaluation of Spanish Language Models](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/download/6487/3894). [Procesamiento del Lenguaje Natural (70)](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/issue/view/288), pp 157-170. https://doi.org/10.26342/2023-70-13.
 + Gorka Urbizu, Iñaki San Vicente, Xabier Saralegi, Rodrigo Agerri, Aitor Soroa (2023). [Scaling Laws for BERT in Low-Resource Settings](https://aclanthology.org/2023.findings-acl.492/). Findings of the Association for Computational Linguistics: ACL 2023. SCIE Class 1.
 + Nayla Escribano, German Rigau, Rodrigo Agerri (2023). [A modular approach for multilingual timex detection and normalization using deep learning and grammar-based methods](https://doi.org/10.1016/j.knosys.2023.110612). Knowledge-Based Systems 273. JCR: 8.139 (Q1)
 + Agerri, R. et al. (2023). [State-of-the-Art in Language Technology and Language-centric Artificial Intelligence](https://doi.org/10.1007/978-3-031-28819-7_2). In: Rehm, G., Way, A. (eds) European Language Equality. Cognitive Technologies. Springer, Cham.
++ Begoña Altuna, Rodrigo Agerri, Lidia Salas-Espejo, José Javier Saiz, Alberto Lavelli, Bernardo Magnini, Manuela Speranza, Roberto Zanoli, Goutham Karunakaran (2023). [Overview of TESTLINK at IberLEF 2023: Linking Results to Clinical Laboratory Tests and Measurements](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/download/6562/3962). [Procesamiento del Lenguaje Natural (71)](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/issue/view/292), pp 313-320.
 + Rodrigo Agerri, Iñigo Alonso, Aitziber Atutxa, Ander Berrondo, Ainara Estarrona, Iker Garcia-Ferrero, Iakes Goenaga, Koldo Gojenola, Maite Oronoz, Igor Perez-Tejedor, German Rigau and Anar Yeginbergenova (2023). [HiTZ@Antidote: Argumentation-driven Explainable Artificial Intelligence for Digital Medicine](https://ceur-ws.org/Vol-3516/paper14.pdf). In SEPLN 2023: 39th International Conference of the Spanish Society for Natural Language Processing.
-+ Joseba Fernandez de Landa, Rodrigo Agerri (2023). HiTZ-IXA at PoliticES 2023: Document and Sentence Level Text Representations for Demographic Characteristics and Political Ideology Detection. In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023) co-located with the Conference of the Spanish Society for Natural Language Processing
-(SEPLN 2023), Jaén, Spain, September 2023.
++ Joseba Fernandez de Landa, Rodrigo Agerri (2023). [HiTZ-IXA at PoliticES 2023: Document and Sentence Level Text Representations for Demographic Characteristics and Political Ideology Detection](https://ceur-ws.org/Vol-3496/politices-paper2.pdf). In [Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023)](https://ceur-ws.org/Vol-3496/) co-located with the Conference of the Spanish Society for Natural Language Processing (SEPLN 2023), Jaén, Spain, September 2023.
 + Masson, M., Roose, P., Sallaberry, C., Agerri, R., Bessagnet, MN., Lacayrelle, A.L.P. (2023). [APs: A Proxemic Framework for Social Media Interactions Modeling and Analysis](https://doi.org/10.1007/978-3-031-30047-9_23). In: Crémilleux, B., Hess, S., Nijssen, S. (eds) Advances in Intelligent Data Analysis XXI. IDA 2023. Lecture Notes in Computer Science, vol 13876. Springer, Cham.
 
 ## 2022
 
-+ Elisa Sanchez-Bayona and Rodrigo Agerri (2022). [Leveraging a New Spanish Corpus for Multilingual and Crosslingual Metaphor Detection](https://arxiv.org/pdf/2210.10358). In CoNLL 2022.
++ Elisa Sanchez-Bayona and Rodrigo Agerri (2022). [Leveraging a New Spanish Corpus for Multilingual and Crosslingual Metaphor Detection](https://aclanthology.org/2022.conll-1.16/). In CoNLL 2022.
 
-+ Iker García-Ferrero, Rodrigo Agerri and German Rigau (2022). [Model and Data Transfer for Cross-Lingual Sequence Labelling in Zero-Resource Settings](https://arxiv.org/pdf/2210.12623). Findings of the Association for Computational Linguistics: EMNLP 2022.
++ Iker García-Ferrero, Rodrigo Agerri and German Rigau (2022). [Model and Data Transfer for Cross-Lingual Sequence Labelling in Zero-Resource Settings](https://aclanthology.org/2022.findings-emnlp.478/). Findings of the Association for Computational Linguistics: EMNLP 2022.
 
-+ Mikel Artetxe, Itziar Aldabe, Rodrigo Agerri, Olatz Perez-de-Viñaspre, Aitor Soroa (2022). [Does Corpus Quality Really Matter for Low-Resource Languages?](https://arxiv.org/pdf/2203.08111.pdf). In EMNLP 2022.
++ Mikel Artetxe, Itziar Aldabe, Rodrigo Agerri, Olatz Perez-de-Viñaspre, Aitor Soroa (2022). [Does Corpus Quality Really Matter for Low-Resource Languages?](https://aclanthology.org/2022.emnlp-main.499/). In EMNLP 2022.
 
 + Joseba Fernandez de Landa and Rodrigo Agerri (2022). [Relational Embeddings for Language Independent Stance Detection](https://arxiv.org/pdf/2210.05715). In Arxiv.
 
@@ -41,7 +41,7 @@ Science, vol 13724. Springer, Cham.
 
 + Rodrigo Agerri, Roberto Centeno, María Espinosa, Joseba Fernández de Landa, Álvaro Rodrigo (2022). [VaxxStance: A Dataset for Cross-Lingual Stance Detection on Vaccines. In ICWSM 2022 Data Challenge.](https://sites.google.com/view/icwsm2022datachallenge/home) [PDF preprint](https://ragerri.github.io/files/vaxxstance_icwsm_data_challenge2022.pdf)
 
-+ Jeremy Barnes, Laura Oberländer, Enrica Troiano, Andrey Kutuzov, Jan Buchmannn, Rodrigo Agerri, Lilja Øvrelid, Erik Velldal (2022). [SemEval 2022 Task 10: Structured Sentiment Analysis](https://jerbarnes.github.io/downloads/SemEval_2022_Task_10.pdf). In SemEval 2022. [PDF preprint](https://jerbarnes.github.io/downloads/SemEval_2022_Task_10.pdf)
++ Jeremy Barnes, Laura Oberländer, Enrica Troiano, Andrey Kutuzov, Jan Buchmannn, Rodrigo Agerri, Lilja Øvrelid, Erik Velldal (2022). [SemEval 2022 Task 10: Structured Sentiment Analysis](https://aclanthology.org/2022.semeval-1.180/). In SemEval 2022. [PDF preprint](https://jerbarnes.github.io/downloads/SemEval_2022_Task_10.pdf)
 
 + Nayla Escribano, Jon Ander González, Julen Orbegozo-Terradillos, Ainara Larrondo-Ureta, Simón Peña-Fernández,
 Olatz Perez-de-Viñaspre and Rodrigo Agerri (2022). [BasqueParl: A Bilingual Corpus of Basque Parliamentary Transcriptions](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.361.pdf). In LREC 2022.
@@ -58,7 +58,7 @@ Olatz Perez-de-Viñaspre and Rodrigo Agerri (2022). [BasqueParl: A Bilingual Cor
 
 + Iker García-Ferrero, Rodrigo Agerri and German Rigau (2021). [Benchmarking Meta-embeddings: What Works and What Does Not.](https://aclanthology.org/2021.findings-emnlp.333.pdf) Findings of the Association for Computational Linguistics: EMNLP 2021.
 
-+ Yi-Ling Chung, Marco Guerini and Rodrigo Agerri (2021). [Multilingual Counter Narrative Type Classification](https://aclanthology.org/2021.argmining-1.12.pdf). In Argument Mining 2021. [[PDF preprint]](https://arxiv.org/pdf/2109.13664.pdf)
++ Yi-Ling Chung, Marco Guerini and Rodrigo Agerri (2021). [Multilingual Counter Narrative Type Classification](https://aclanthology.org/2021.argmining-1.12.pdf). In Argument Mining 2021.
 
 + Elena Zotova, Rodrigo Agerri, German Rigau (2021). [Semi-automatic generation of multilingual datasets for stance detection in Twitter](https://authors.elsevier.com/a/1cOaa_LnESXY5N). Expert Systems with Applications, 170 (2021). JCR: 5.452 (Q1). [https://doi.org/10.1016/j.eswa.2020.114547](https://doi.org/10.1016/j.eswa.2020.114547) [[PDF preprint]](https://arxiv.org/abs/2101.11978)
 
