@@ -15,7 +15,7 @@ redirect_from:
 
 ## 2023
 
-+ Olia Toporkov and Rodrigo Agerri (2023). [On the Role of Morphological Information for Contextual Lemmatization](https://ragerri.github.io/files/toporkov-agerri-single-spaced.pdf). In [Computational Linguistics](https://direct.mit.edu/coli) (MIT Press). To be presented at the main conference of EMNLP 2023. 
++ Olia Toporkov and Rodrigo Agerri (2023). [On the Role of Morphological Information for Contextual Lemmatization](https://doi.org/10.1162/coli_a_00497). In [Computational Linguistics](https://direct.mit.edu/coli) (MIT Press). To be presented at the main conference of EMNLP 2023.
 +  Iker García-Ferrero, Rodrigo Agerri, German Rigau (2023). [T-Projection: High Quality Annotation Projection for Sequence Labeling Tasks](https://ragerri.github.io/files/t-projection-camera-ready.pdf). Findings of the Association for Computational Linguistics: EMNLP 2023.
 + Rodrigo Agerri and Eneko Agirre (2023). [Lessons learned from the evaluation of Spanish Language Models](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/download/6487/3894). [Procesamiento del Lenguaje Natural (70)](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/issue/view/288), pp 157-170. https://doi.org/10.26342/2023-70-13.
 + Gorka Urbizu, Iñaki San Vicente, Xabier Saralegi, Rodrigo Agerri, Aitor Soroa (2023). [Scaling Laws for BERT in Low-Resource Settings](https://aclanthology.org/2023.findings-acl.492/). Findings of the Association for Computational Linguistics: ACL 2023. SCIE Class 1.
