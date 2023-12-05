@@ -14,7 +14,7 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
-+ **[New paper on Neural Contextual Lemmatization](https://ragerri.github.io/files/toporkov-agerri-single-spaced.pdf)** published in Computational Linguistics (to be presented at EMNLP 2023).
++ **[New paper on Neural Contextual Lemmatization](https://doi.org/10.1162/coli_a_00497)** published in Computational Linguistics (to be presented at EMNLP 2023).
 
 + **[New paper on Cross-Lingual Annotation Projection using text-to-text models](https://ragerri.github.io/files/t-projection-camera-ready.pdf)** (Findings of EMNLP 2023).
 
