@@ -13,9 +13,17 @@ redirect_from:
 
 {% include base_path %}
 
+## 2024
+
++ Olia Toporkov and Rodrigo Agerri (2024). [On the Role of Morphological Information for Contextual Lemmatization](https://doi.org/10.1162/coli_a_00497). In [Computational Linguistics](https://direct.mit.edu/coli) (MIT Press). Presented at the main conference of EMNLP 2023.
++ Oscar Sainz, Iker García-Ferrero, Rodrigo Agerri, Oier Lopez de Lacalle, German Rigau, Eneko Agirre, 2024. [GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction](https://huggingface.co/papers/2310.03668). In the [Twelfth International Conference on Learning Representations (ICLR 2024)](https://iclr.cc/).
++ Maxime Masson, Christian Sallaberry, Marie-Noelle Bessagnet, Annig Le Parc Lacayrelle, Philippe Roose and Rodrigo Agerri (2024). [TextBI: An Interactive Dashboard for Visualizing Multidimensional NLP Annotations in Social Media Data](https://aclanthology.org/2024.eacl-demo.1/). In [Proceedings of the Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)](https://2024.eacl.org/).
++ Olia Toporkov and Rodrigo Agerri (2024). [Evaluating Shortest Edit Script Methods for Contextual Lemmatization](https://arxiv.org/abs/2403.16968). In [Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)](https://lrec-coling-2024.org/).
++ Jaione Bengoetxea, Yi-Ling Chung, Marco Guerini and Rodrigo Agerri (2024). [Basque and Spanish Counter Narrative Generation: Data Creation and Evaluation](https://huggingface.co/papers/2403.09159). In Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).
++ Iker García-Ferrero, Rodrigo Agerri, Aitziber Atutxa Salazar, Elena Cabrio, Iker de la Iglesia, Alberto Lavelli, Bernardo Magnini, Benjamin Molinet, Johana Ramirez-Romero, German Rigau, Jose Maria Villa-Gonzalez, Serena Villata and Andrea Zaninello (2024). [Medical mT5: An Open-Source Multilingual Text-to-Text LLM for The Medical Domain](https://huggingface.co/HiTZ/Medical-mT5-xl). In Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).
+
 ## 2023
 
-+ Olia Toporkov and Rodrigo Agerri (2023). [On the Role of Morphological Information for Contextual Lemmatization](https://doi.org/10.1162/coli_a_00497). In [Computational Linguistics](https://direct.mit.edu/coli) (MIT Press). To be presented at the main conference of EMNLP 2023.
 +  Iker García-Ferrero, Rodrigo Agerri, German Rigau (2023). [T-Projection: High Quality Annotation Projection for Sequence Labeling Tasks](https://ragerri.github.io/files/t-projection-camera-ready.pdf). Findings of the Association for Computational Linguistics: EMNLP 2023.
 + Rodrigo Agerri and Eneko Agirre (2023). [Lessons learned from the evaluation of Spanish Language Models](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/download/6487/3894). [Procesamiento del Lenguaje Natural (70)](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/issue/view/288), pp 157-170. https://doi.org/10.26342/2023-70-13.
 + Gorka Urbizu, Iñaki San Vicente, Xabier Saralegi, Rodrigo Agerri, Aitor Soroa (2023). [Scaling Laws for BERT in Low-Resource Settings](https://aclanthology.org/2023.findings-acl.492/). Findings of the Association for Computational Linguistics: ACL 2023. SCIE Class 1.
