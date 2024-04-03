@@ -14,7 +14,19 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
-+ **[New paper on Neural Contextual Lemmatization](https://doi.org/10.1162/coli_a_00497)** published in Computational Linguistics (to be presented at EMNLP 2023).
++ **New project funded!!** DeepMinor: Large Language Models for Multilingual and Multidomain Text Processing in Low Resource Scenarios. Consolidación Investigadora 2023, Ministerio de Ciencia e Innovación. Funding: €399.987,28. Ref:CNS2023-144375. Role: Principal Investigator.
+
++ **Check out our **[ICLR 2024](https://iclr.cc/) accepted paper** on [Annotation Guidelines improve Zero-Shot Information-Extraction](https://arxiv.org/abs/2310.03668).
+
++ **Demo paper presented at EACL 2024**: [TextBI: a multimodal dashboard to interpret multidimensional text annotations on large volumes of multilingual social media data](https://t.co/FwQf4s4Wdy)
+
++ **Three papers accepted at LREC-COLING 2024**. Check the [publications](https://ragerri.github.io/publications/) page for details.
+
++ **Area Chair** at [ACL 2024](https://2024.aclweb.org/)
+
++ **Area Chair** at [NAACL 2024](https://2024.naacl.org/)
+
++ **[New paper on Neural Contextual Lemmatization](https://doi.org/10.1162/coli_a_00497)** published in Computational Linguistics (presented at EMNLP 2023).
 
 + **[New paper on Cross-Lingual Annotation Projection using text-to-text models](https://ragerri.github.io/files/t-projection-camera-ready.pdf)** (Findings of EMNLP 2023).
 
@@ -33,7 +45,7 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 + **New project funded!!** DeepKnowledge: Deep Language Models for Understanding and Reasoning with Multilingual Content.Funding Entity: Programa Generación del Conocimiento, Ministerio de Ciencia, Innovación y Universidades. Funding: €295.119. Ref: PID2021-127777OB-C21. Role: Principal Investigator.
 
-+ **Senior Action Editor** at ACL Rolling Review from December 2022.
++ **Senior Action Editor** at ACL Rolling Review from December 2022 to December 2023.
 
 + **[New paper on Multilingual Metaphor Detection](https://arxiv.org/pdf/2210.10358)** to be presented at CoNLL 2022.
 + **2 papers accepted at EMNLP 2022**. Check [them out](https://ragerri.github.io/publications/)!
