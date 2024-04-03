@@ -16,7 +16,7 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 + **New project funded!!** DeepMinor: Large Language Models for Multilingual and Multidomain Text Processing in Low Resource Scenarios. Consolidación Investigadora 2023, Ministerio de Ciencia e Innovación. Funding: €399.987,28. Ref:CNS2023-144375. Role: Principal Investigator.
 
-+ **Check out our **[ICLR 2024](https://iclr.cc/) accepted paper** on [Annotation Guidelines improve Zero-Shot Information-Extraction](https://arxiv.org/abs/2310.03668).
++ **Check out our [ICLR 2024](https://iclr.cc/) accepted paper** on [Annotation Guidelines to Improve Zero-Shot Information-Extraction](https://arxiv.org/abs/2310.03668).
 
 + **Demo paper presented at EACL 2024**: [TextBI: a multimodal dashboard to interpret multidimensional text annotations on large volumes of multilingual social media data](https://t.co/FwQf4s4Wdy)
 
