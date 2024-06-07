@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rodrigo Agerri - Website"
 title_separator          : "-"
 name                     : &name "Rodrigo Agerri"
-description              : &description "Ramon y Cajal Research Fellow, IXA Group, HiTZ Centre, University of the Basque Country UPV/EHU"
+description              : &description "Permanent Researcher, IXA Group, HiTZ Centre, University of the Basque Country UPV/EHU"
 url                      : https://ragerri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ragerri/ragerri.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rodrigo Agerri"
   avatar           : "really.jpg"
-  bio              : "Ramon y Cajal Research Fellow"
+  bio              : "Permanent Researcher (tenured)"
   location         : "Donostia-San Sebastián"
   employer         : IXA Group, HiTZ Centre, UPV/EHU
   pubmed           :
