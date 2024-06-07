@@ -18,7 +18,8 @@ Doctor in Computer Science (PhD), City, University of London, 2007.
 
 ## Short Bio {#bio}
 
-+ February 2019-present: Ramon y Cajal Research Fellow, Department of Computer Systems and Languages (LSI), [University of the Basque Country](http://www.ehu.eus).
++ May 2024-present: Permanent Researcher (tenured), Department of Computer Systems and Languages (LSI), [University of the Basque Country](http://www.ehu.eus).
++ February 2019-April 2024: Ramon y Cajal Research Fellow, Department of Computer Systems and Languages (LSI), [University of the Basque Country](http://www.ehu.eus).
 + April 2018-February 2019: Assistant Professor, Department of Computer Systems and Languages (LSI), [University of the Basque Country](http://www.ehu.eus).
 + January 2012-April 2018: Research Fellow at [IXA NLP Group](http://ixa.eus). [University of the Basque Country](http://www.ehu.eus).
 + May 2011-January 2012: Researcher in Computational Linguistics at [University of Deusto](http://www.deusto.es), Bilbao, Basque Country.
