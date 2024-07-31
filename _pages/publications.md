@@ -15,6 +15,7 @@ redirect_from:
 
 ## 2024
 
++ Iñigo Alonso, Maite Oronoz and Rodrigo Agerri (2024). [MedExpQA: Multilingual benchmarking of Large Language Models for Medical Question Answering](https://doi.org/10.1016/j.artmed.2024.102938). In Artificial Intelligence in Medicine (Elsevier).
 + Anar Yeginbergen, Maite Oronoz and Rodrigo Agerri (2024). [Argument Mining in Data Scarce Settings: Cross-lingual Transfer and Few-shot Techniques](https://arxiv.org/abs/2407.03748). In ACL 2024.
 + Olia Toporkov and Rodrigo Agerri (2024). [On the Role of Morphological Information for Contextual Lemmatization](https://doi.org/10.1162/coli_a_00497). In [Computational Linguistics](https://direct.mit.edu/coli) (MIT Press). Presented at the main conference of [EMNLP 2023](https://2023.emnlp.org/).
 + Oscar Sainz, Iker García-Ferrero, Rodrigo Agerri, Oier Lopez de Lacalle, German Rigau, Eneko Agirre, 2024. [GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction](https://huggingface.co/papers/2310.03668). In the [Twelfth International Conference on Learning Representations (ICLR 2024)](https://iclr.cc/).
