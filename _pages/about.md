@@ -14,6 +14,12 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
++ Check out [MedExpQA: our new Multilingual Medical QA benchmark for LLMs in the Medical Domain!](https://doi.org/10.1016/j.artmed.2024.102938)
+
++ **New ACL 2024 paper** on [Argument Mining in Data Scarce Settings: Cross-lingual Transfer and Few-shot Techniques](https://arxiv.org/abs/2407.03748)
+
++ **Area Chair** at [COLING 2025](https://coling2025.org/)
+
 + [Senior Programme Committee Member](https://www.ecai2024.eu/committees/spc) at ECAI 2024.
 
 + **New project funded!!** DeepMinor: Large Language Models for Multilingual and Multidomain Text Processing in Low Resource Scenarios. Consolidación Investigadora 2023, Ministerio de Ciencia e Innovación. Funding: €399.987,28. Ref:CNS2023-144375. Role: Principal Investigator.
