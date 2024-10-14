@@ -10,21 +10,24 @@ redirect_from:
 {% include base_path %}
 
 
-1. [Alumni](#alumni)
-2. [Teaching](#teaching)
+1. [Supervision](#supervision)
+2. [Alumni](#alumni)
+3. [Teaching](#teaching)
+
+## Supervision {#supervision}
+
++ Irune Zubiaga, PhD, "Evaluation Methods for Text Generation", funded by PIF Grupos, UPV/EHU.
++ Blanca Calvo Figueras, PhD, "Automated Argumentation to Fight Misinformation", funded by PIF Programme, UPV/EHU.
++ Anar Yeginbergen, PhD, "Cross-lingual Argument Mining in Data-scarce Settings", funded by FPI Programme, Ministry of Science (Spain).
++ Niti Mishra, PhD, "Improving Surveillance and Forecasting of Temperature Related Mortality and Influenza Incidences for European Health Early Warning Systems" (co-supervisor with Joan Ballester), thesis registered at Pompeu Fabra University, Barcelona. 
++ Elisa Sanchez-Bayona, PhD, "Metaphor Processing from a Multilingual Perspective", funded by PIF Programme, UPV/EHU.
++ Olia Toporkov, PhD, "Multilingual and Robust Cross-Domain Lemmatization", funded by PIF Programme, UPV/EHU.
++ Iker García-Ferrero, PhD, "Crosslingual approaches for semantic processing" (co-supervisor German Rigau)", funded by the Basque Government Predoc Programme.
 
 ## Alumni {#alumni}
 
-+ Blanca Calvo, PhD, "Automated Argumentation to Fight Misinformation", funded by PIF Programme, UPV/EHU.
-+ Anar Yeginbergenova, PhD, "Cross-lingual Argument Mining for the Medical Domain, funded by PIF Programme, UPV/EHU.
-+ Niti Mishra, PhD, "Improving Surveillance and Forecasting of Temperature Related Mortality and Influenza Incidences for European Health Early Warning Systems"
-  (co-supervisor with Joan Ballester), thesis registered at Pompeu Fabra University, Barcelona. 
-+ Elisa Sanchez-Bayona, PhD, "Metaphor Processing from a Multilingual Perspective", funded by PIF Programme, UPV/EHU.
-+ Nayla Escribano, PhD, "Multilingual Fiction Generation" (co-supervisor German Rigau), funded by the Basque Government Predoc Programme.
-+ Maxime Masson, PhD, "Augmented Proxemic services for Cultural Heritage and Tourism practices" (co-supervisor Christian Sallaberry). Co-tutelle with University of Pau and the Adour Region.
-+ Olia Toporkov, PhD, "Multilingual and Robust Cross-Domain Lemmatization", funded by PIF Programme, UPV/EHU.
-+ Joseba Fernandez de Landa, PhD, "Multilingual Political analysis in Twitter", funded by PIF Programme, UPV/EHU.
-+ Iker García-Ferrero, PhD, "Crosslingual approaches for semantic processing" (co-supervisor German Rigau)", funded by the Basque Government Predoc Programme.
++ Joseba Fernandez de Landa, PhD 2024, "Artificial Intelligence methods for Social Science Research: Demographic Analysis, Stance Detection and Political Ideology Inference", funded by PIF Programme, UPV/EHU.
++ Maxime Masson, PhD 2024, "Generic Framework for the Multidimensional Processing and Analysis of Social Media Content A Proxemic Approach" (co-supervisor Christian Sallaberry). Co-tutelle with University of Pau and the Adour Region.
 + Iñaki San Vicente. PhD 2019, "Multilingual Aspect-based Sentiment Analysis" (now at [Elhuyar](https://www.orai.eus/es/orai/equipo)).
 
 ## Teaching {#teaching}
