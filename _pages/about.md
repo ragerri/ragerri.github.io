@@ -14,6 +14,10 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
++ **New CoNLL 2024 paper** on a new Argumentation task: [Critical Question Generation]()!
+
++ **New EMNLP 2024 papers** on [CasiMedicos-Arg](https://arxiv.org/abs/2410.05235) and [Evaluation of Counternarratives](https://arxiv.org/abs/2406.15227).
+
 + Check out [MedExpQA: our new Multilingual Medical QA benchmark for LLMs in the Medical Domain!](https://doi.org/10.1016/j.artmed.2024.102938)
 
 + **New ACL 2024 paper** on [Argument Mining in Data Scarce Settings: Cross-lingual Transfer and Few-shot Techniques](https://arxiv.org/abs/2407.03748)
