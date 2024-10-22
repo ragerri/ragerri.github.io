@@ -16,7 +16,7 @@ redirect_from:
 ## 2024
 
 + Irune Zubiaga, Aitor Soroa, Rodrigo Agerri (2024). [A LLM-based Ranking Method for the Evaluation of Automatic Counter-Narrative Generation](https://arxiv.org/abs/2406.15227). In Findings of EMNLP 2024.
-+ Blanca Calvo Figueras, Rodrigo Agerri (2024). [Critical Questions Generation: Motivation and Challenges](). In CoNLL 2024.
++ Blanca Calvo Figueras, Rodrigo Agerri (2024). [Critical Questions Generation: Motivation and Challenges](https://arxiv.org/abs/2410.14335). In CoNLL 2024.
 + Ekaterina Sviridova, Anar Yeginbergen, Ainara Estarrona, Elena Cabrio, Serena Villata, Rodrigo Agerri (2024). [CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures](https://arxiv.org/abs/2410.05235). In EMNLP 2024.
 + Anar Yeginbergen, Maite Oronoz, Rodrigo Agerri (2024). [Argument Mining in Data Scarce Settings: Cross-lingual Transfer and Few-shot Techniques](https://aclanthology.org/2024.acl-long.628/). In ACL 2024.
 + Iñigo Alonso, Maite Oronoz and Rodrigo Agerri (2024). [MedExpQA: Multilingual benchmarking of Large Language Models for Medical Question Answering](https://doi.org/10.1016/j.artmed.2024.102938). In Artificial Intelligence in Medicine (Elsevier).
