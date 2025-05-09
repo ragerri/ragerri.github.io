@@ -16,19 +16,20 @@ redirect_from:
 
 ## Supervision {#supervision}
 
-+ Irune Zubiaga, PhD, "Evaluation Methods for Text Generation", funded by PIF Grupos, UPV/EHU.
++ Jaione Bengoetxea, PhD, "Language variability in Basque: data creation, evaluation and systems for dialect and register awareness in natural language processing", funded by the Basque Government Predoc Programme (co-director with Itziar Gonzalez-Dios).
++ Irune Zubiaga, PhD, "Evaluation Methods for Text Generation", funded by PIF 2024 Programme, UPV/EHU (co-director with Aitor Soroa).
 + Blanca Calvo Figueras, PhD, "Automated Argumentation to Fight Misinformation", funded by PIF Programme, UPV/EHU.
-+ Anar Yeginbergen, PhD, "Cross-lingual Argument Mining in Data-scarce Settings", funded by FPI Programme, Ministry of Science (Spain).
-+ Niti Mishra, PhD, "Improving Surveillance and Forecasting of Temperature Related Mortality and Influenza Incidences for European Health Early Warning Systems" (co-supervisor with Joan Ballester), thesis registered at Pompeu Fabra University, Barcelona. 
++ Anar Yeginbergen, PhD, "Cross-lingual Argument Mining in Data-scarce Settings", funded by FPI Programme, Ministry of Science (co-director with Maite Oronoz)
++ Niti Mishra, PhD, "Improving Surveillance and Forecasting of Temperature Related Mortality and Influenza Incidences for European Health Early Warning Systems" (co-supervisor with Joan Ballester), thesis registered at Pompeu Fabra University, Barcelona.
 + Elisa Sanchez-Bayona, PhD, "Metaphor Processing from a Multilingual Perspective", funded by PIF Programme, UPV/EHU.
 + Olia Toporkov, PhD, "Multilingual and Robust Cross-Domain Lemmatization", funded by PIF Programme, UPV/EHU.
-+ Iker García-Ferrero, PhD, "Crosslingual approaches for semantic processing" (co-supervisor German Rigau)", funded by the Basque Government Predoc Programme.
 
 ## Alumni {#alumni}
 
++ + Iker García-Ferrero, PhD 2025, "Crosslingual approaches for semantic processing", funded by the Basque Government Predoc Programme (co-supervisor with German Rigau). Now at [krea.ai](https://www.krea.ai/).
 + Joseba Fernandez de Landa, PhD 2024, "Artificial Intelligence methods for Social Science Research: Demographic Analysis, Stance Detection and Political Ideology Inference", funded by PIF Programme, UPV/EHU.
-+ Maxime Masson, PhD 2024, "Generic Framework for the Multidimensional Processing and Analysis of Social Media Content A Proxemic Approach" (co-supervisor Christian Sallaberry). Co-tutelle with University of Pau and the Adour Region.
-+ Iñaki San Vicente. PhD 2019, "Multilingual Aspect-based Sentiment Analysis" (now at [Elhuyar](https://www.orai.eus/es/orai/equipo)).
++ Maxime Masson, PhD 2024, "Generic Framework for the Multidimensional Processing and Analysis of Social Media Content: A Proxemic Approach". Co-tutelle with the University of Pau and the Adour Region (co-supervisor with Christian Sallaberry).
++ Iñaki San Vicente. PhD 2019, "Multilingual Aspect-based Sentiment Analysis" (now at [Elhuyar](https://www.orai.eus/es/orai/equipo)) (co-supervisor with German Rigau).
 
 ## Teaching {#teaching}
 
