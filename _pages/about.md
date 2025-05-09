@@ -14,7 +14,7 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
-+ Invited talk at the [Truth is in the eyes of the machines](https://www.cwi.nl/en/events/cwi-research-semester-programmes/truth-is-in-the-eyes-of-the-machines-symposium/), Turing Hall, CWI, Amsterdam, 8-9 May 2025.
++ Invited talk at the [Truth is in the eyes of the machines Symposium](https://www.cwi.nl/en/events/cwi-research-semester-programmes/truth-is-in-the-eyes-of-the-machines-symposium/), Turing Hall, CWI, Amsterdam, 8-9 May 2025.
 
 + **Area Chair** at [EMNLP 2025](https://2025.emnlp.org/)
 
