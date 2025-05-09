@@ -13,6 +13,14 @@ redirect_from:
 
 {% include base_path %}
 
+## 2025
+
++ Bonaldi, Helena, María Estrella Vallecillo-Rodríguez, Irune Zubiaga, Arturo Montejo-Ráez, Aitor Soroa, María-Teresa Martín-Valdivia, Marco Guerini, and Rodrigo Agerri (2025). ["The First Workshop on Multilingual Counterspeech Generation at COLING 2025: Overview of the Shared Task."](https://aclanthology.org/2025.mcg-1.10/). In Proceedings of the First Workshop on Multilingual Counterspeech Generation, pp. 92-107.
++ Joseba Fernandez de Landa and Rodrigo Agerri (2025). ["Language Independent Stance Detection: Social Interaction-based Embeddings and Large Language Models."](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6672/4063) Procesamiento del Lenguaje Natural 74 (2025): 139-157.
++ Jaione Bengoetxea, Itziar Gonzalez-Dios, Rodrigo Agerri (2025). [Euskara eta gaztelaniazko kontra-narratiben sorkuntza: datuen sorrera eta ebaluazioa](https://www.ueu.eus/ikergazte/2025/artikuluak/ikertzaile-gazteen-ekarpenak/110-euskara-eta-gaztelaniazko-kontra-narratiben-sorkuntza-datuen-sorrera-eta-ebaluazioa). In IkerGazte 2025.
++ Irune Zubiaga, Jaione Bengoetxea, Aitor Soroa, Rodrigo Agerri (2025). [Kontra-Narratiben Sorkuntza Automatikoa: Gorrotoa Deseraikiz](https://www.ueu.eus/ikergazte/2025/artikuluak/ikertzaile-gazteen-ekarpenak/115-kontra-narratiben-sorkuntza-automatikoa-gorrotoa-deseraikiz). In IkerGazte 2025.
++ Aitor Bellanco, Ibon Saratxaga, Inma Hernáez, Aitor Soroa, Eva Navas, Gorka Labaka, Xabier de Zuazo, Ander Arriandiaga, Victor García, Jon Sanchez, Christoforos Souganidis, Eneko Aguirre, Asier Herranz, Rodrigo Agerri, German Rigau, Gemma Meseguer (2025). [HiTZketan. Ahots-ahots itzulpen elebiduna ikasketa sakona erabiliz](https://www.ueu.eus/ikergazte/2025/artikuluak/ikertzaile-gazteen-ekarpenak/156-hitzketan-ahots-ahots-itzulpen-elebiduna-ikasketa-sakona-erabiliz). In IkerGazte 2025.
+
 ## 2024
 
 + Irune Zubiaga, Aitor Soroa, Rodrigo Agerri (2024). [A LLM-based Ranking Method for the Evaluation of Automatic Counter-Narrative Generation](https://arxiv.org/abs/2406.15227). In Findings of EMNLP 2024.
