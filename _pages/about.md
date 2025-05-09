@@ -18,9 +18,13 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 + **Area Chair** at [EMNLP 2025](https://2025.emnlp.org/)
 
++ **New shared task** on [Critical Questions Generation at Argument Mining 2025 workshop](https://hitz-zentroa.github.io/shared-task-critical-questions-generation/), [co-located with ACL 2025](https://argmining-org.github.io/2025/), Vienna, Austria.
+
 + **Area Chair** at [ACL 2025](https://2025.aclweb.org/)
 
-+ **Senior Programme Committee member** at [ECAI 2025](https://ecai2025.org/) 
++ **Senior Programme Committee member** at [ECAI 2025](https://ecai2025.org/)
+
++ **New shared task** on [Multilingual Counterspeech Generation at COLING 2025!](https://sites.google.com/view/multilang-counterspeech-gen/home)
 
 + **New CoNLL 2024 paper** on a new Argumentation task: [Critical Question Generation]()!
 
