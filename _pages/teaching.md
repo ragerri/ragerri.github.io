@@ -26,7 +26,7 @@ redirect_from:
 
 ## Alumni {#alumni}
 
-+ + Iker García-Ferrero, PhD 2025, "Crosslingual approaches for semantic processing", funded by the Basque Government Predoc Programme (co-supervisor with German Rigau). Now at [krea.ai](https://www.krea.ai/).
++ Iker García-Ferrero, PhD 2025, "Crosslingual approaches for semantic processing", funded by the Basque Government Predoc Programme (co-supervisor with German Rigau). Now at [krea.ai](https://www.krea.ai/).
 + Joseba Fernandez de Landa, PhD 2024, "Artificial Intelligence methods for Social Science Research: Demographic Analysis, Stance Detection and Political Ideology Inference", funded by PIF Programme, UPV/EHU.
 + Maxime Masson, PhD 2024, "Generic Framework for the Multidimensional Processing and Analysis of Social Media Content: A Proxemic Approach". Co-tutelle with the University of Pau and the Adour Region (co-supervisor with Christian Sallaberry).
 + Iñaki San Vicente. PhD 2019, "Multilingual Aspect-based Sentiment Analysis" (now at [Elhuyar](https://www.orai.eus/es/orai/equipo)) (co-supervisor with German Rigau).
