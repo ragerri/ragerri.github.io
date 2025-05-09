@@ -16,10 +16,10 @@ redirect_from:
 
 ## Supervision {#supervision}
 
-+ Jaione Bengoetxea, PhD, "Language variability in Basque: data creation, evaluation and systems for dialect and register awareness in natural language processing", funded by the Basque Government Predoc Programme (co-director with Itziar Gonzalez-Dios).
-+ Irune Zubiaga, PhD, "Evaluation Methods for Text Generation", funded by PIF 2024 Programme, UPV/EHU (co-director with Aitor Soroa).
++ Jaione Bengoetxea, PhD, "Language variability in Basque: data creation, evaluation and systems for dialect and register awareness in natural language processing", funded by the Basque Government Predoc Programme (co-supervisor with Itziar Gonzalez-Dios).
++ Irune Zubiaga, PhD, "Evaluation Methods for Text Generation", funded by PIF 2024 Programme, UPV/EHU (co-supervisor with Aitor Soroa).
 + Blanca Calvo Figueras, PhD, "Automated Argumentation to Fight Misinformation", funded by PIF Programme, UPV/EHU.
-+ Anar Yeginbergen, PhD, "Cross-lingual Argument Mining in Data-scarce Settings", funded by FPI Programme, Ministry of Science (co-director with Maite Oronoz)
++ Anar Yeginbergen, PhD, "Cross-lingual Argument Mining in Data-scarce Settings", funded by FPI Programme, Ministry of Science (co-supervisor with Maite Oronoz)
 + Niti Mishra, PhD, "Improving Surveillance and Forecasting of Temperature Related Mortality and Influenza Incidences for European Health Early Warning Systems" (co-supervisor with Joan Ballester), thesis registered at Pompeu Fabra University, Barcelona.
 + Elisa Sanchez-Bayona, PhD, "Metaphor Processing from a Multilingual Perspective", funded by PIF Programme, UPV/EHU.
 + Olia Toporkov, PhD, "Multilingual and Robust Cross-Domain Lemmatization", funded by PIF Programme, UPV/EHU.
