@@ -8,11 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a Permanent Researcher (tenured) at [IXA Group](http://ixa.eus), part of the [HiTZ Centre](http://hitz.eus) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus), where I am head of the [Text Analysis unit](http://www.hitz.eus/en/nlp). I got a PhD in Computer Science at City, University of London (2007), and I have since been working on Natural Language Processing at several British and Spanish institutions, including a two year stint at the industry as research project director. I have been involved as PI or collaborator in more than 40 research projects funded by the European Commission, UK research councils, Spanish Ministry of Science and Basque Goverment and published in the major journals (Artificial Intelligence, etc.) and conferences (ACL, EMNLP, EACL, IJCAI, etc.) related to Artificial Intelligence and Natural Language Processing.
+I am a Permanent Researcher (tenured) at [IXA Group](http://ixa.eus), part of the [HiTZ Centre](http://hitz.eus) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus), where I am head of the [Text Analysis unit](http://www.hitz.eus/en/nlp). I got a PhD in Computer Science at City, University of London (2007), and I have since been working on Natural Language Processing at several British and Spanish institutions, including a two-year stint in the industry as research project director. I have been involved as PI or collaborator in more than 40 research projects funded by the European Commission, UK research councils, Spanish Ministry of Science, and Basque Government and published in the major journals (Artificial Intelligence, etc.) and conferences (ACL, EMNLP, EACL, IJCAI, etc.) related to Artificial Intelligence and Natural Language Processing.
 
-Currently my research is focused on Computational Semantics and Information Extraction, with a strong focus on multilingual and cross-lingual approaches. I was the creator and main developer of [IXA pipes](http://ixa2.si.ehu.es/ixa-pipes), a set of ready to use multilingual tools for linguistic processing. I am also PMC and committer in the [OpenNLP project of the Apache Software Foundation](https://opennlp.apache.org/).
+Currently my research is focused on Computational Semantics and Information Extraction, with a strong focus on multilingual and cross-lingual approaches. I was the creator and main developer of [IXA pipes](http://ixa2.si.ehu.es/ixa-pipes), a set of ready to use multilingual tools for linguistic processing. I am also a PMC and committer in the [OpenNLP project of the Apache Software Foundation](https://opennlp.apache.org/).
 
 ## Latest News
+
++ Invited talk at the [Truth is in the eyes of the machines](https://www.cwi.nl/en/events/cwi-research-semester-programmes/truth-is-in-the-eyes-of-the-machines-symposium/), Turing Hall, CWI, Amsterdam, 8-9 May 2025.
+
++ **Area Chair** at [EMNLP 2025](https://2025.emnlp.org/)
+
++ **Area Chair** at [ACL 2025](https://2025.aclweb.org/)
+
++ **Senior Programme Committee member** at [ECAI 2025](https://ecai2025.org/) 
 
 + **New CoNLL 2024 paper** on a new Argumentation task: [Critical Question Generation]()!
 
