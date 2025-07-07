@@ -14,6 +14,12 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 ## Latest News
 
++ **New Computational Linguistics paper** on [Meta4XNLI: A Cross-lingual Parallel Corpus for Metaphor Detection and Interpretation](https://arxiv.org/abs/2404.07053)
+
++ **Check out** our [4 new papers to be presented at ACL!](https://ragerri.github.io/publications/)
+
++ **New CoNLL 2025 paper** on Linguistic Variants for Basque and Spanish!: [https://arxiv.org/abs/2506.15239](https://arxiv.org/abs/2506.15239)!
+
 + Invited talk at the [Truth is in the eyes of the machines Symposium](https://www.cwi.nl/en/events/cwi-research-semester-programmes/truth-is-in-the-eyes-of-the-machines-symposium/), Turing Hall, CWI, Amsterdam, 8-9 May 2025.
 
 + **Area Chair** at [EMNLP 2025](https://2025.emnlp.org/)
