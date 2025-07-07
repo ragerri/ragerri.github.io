@@ -15,7 +15,7 @@ redirect_from:
 
 ## 2025
 
-+ Sanchez-Bayona, Elisa and Rodrigo Agerri (2025). [Meta4XNLI: A Cross-lingual Parallel Corpus for Metaphor Detection and Interpretation](https://arxiv.org/abs/2404.07053). In Computational Linguistics (MIT Press).
++ Sanchez-Bayona, Elisa and Rodrigo Agerri (2025). [Meta4XNLI: A Cross-lingual Parallel Corpus for Metaphor Detection and Interpretation](https://arxiv.org/abs/2404.07053). In [Computational Linguistics](https://direct.mit.edu/coli) (MIT Press).
 + Calvo Figueras, Blanca, Eneko Sagarzazu, Julen Etxaniz, Jeremy Barnes, Pablo Gamallo, Iria De Dios Flores, and Rodrigo Agerri (2025). [Truth Knows No Language: Evaluating Truthfulness Beyond English.](https://arxiv.org/abs/2502.09387). In ACL 2025. 
 + Sanchez-Bayona, Elisa, Rodrigo Agerri (2025). [Metaphor and Large Language Models: When Surface Features Matter More than Deep Understanding](). In ACL Findings.
 + Yeginbergen, Anar, Maite Oronoz, and Rodrigo Agerri (2025). [Dynamic Knowledge Integration for Evidence-Driven Counter-Argument Generation with Large Language Models.](https://arxiv.org/abs/2503.05328) In ACL Findings 2025.
