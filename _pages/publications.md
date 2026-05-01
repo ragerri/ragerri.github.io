@@ -13,11 +13,20 @@ redirect_from:
 
 {% include base_path %}
 
+## 2026
+
++ Sanchez-Bayona, Elisa and Rodrigo Agerri (2025). [Meta4XNLI: A Cross-lingual Parallel Corpus for Metaphor Detection and Interpretation](https://doi.org/10.1162/COLI.a.20). In [Computational Linguistics](https://direct.mit.edu/coli) (MIT Press).
++ Niti Mishra, Joan Ballester, Rodrigo Agerri (2026). Cross-lingual Transfer with Multilingual Language Models for Influenza-Like-Illness Detection in Social Media Texts. In [NPJ Digital Public Health](https://www.nature.com/npjdigipubhealth/).
++ Jaione Bengoetxea, Itziar Gonzalez-Dios, Rodrigo Agerri (2026). [Physical Commonsense Reasoning for Lower-Resourced Languages and Dialects: a Study on Basque](https://arxiv.org/abs/2602.14812). In LREC 2026.
++ Nagore Bravo, Jaione Bengoetxea, Iker Garcia-Ferro, Alba Bonet-Jover, Estela Saquete, Rodrigo Agerri (2026). [FactOReS: Fact-checking with an Evidence-based Open Resource in Spanish](). In LREC 2026.
++ Alejandro Benito-Santos, Roser Morante, Adrián Ghajari, Iker García-Ferrero, Robiert Sepúlveda-Torres, German Rigau, Rodrigo Agerri, Juan Pablo Consuegra-Ayala, Ernesto L Estevanell-Valladares, Fabio Yáñez-Romero, Miquel Canal-Esteve, Yoan Gutiérrez, Rafael Muñoz-Guillena, Manuel Palomar, Eva Sánchez Salido, Guillermo Marco, Andrés Fernández García, Víctor Fresno, Enrique Amigó, Laura Plaza, Jorge Carrillo-de-Albornoz, Miguel Lucas, Julio Gonzalo (2026). [Discriminative Benchmarking of Spanish Language Models: Findings from the ODESIA Challenge 2024](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6841). In [Procesamiento del Lenguaje Natural](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/issue/view/303), 76, 225-238. 
+
+
 ## 2025
 
-+ Sanchez-Bayona, Elisa and Rodrigo Agerri (2025). [Meta4XNLI: A Cross-lingual Parallel Corpus for Metaphor Detection and Interpretation](https://arxiv.org/abs/2404.07053). In [Computational Linguistics](https://direct.mit.edu/coli) (MIT Press).
-+ Olia Toporkov, Alan Akbik and Rodrigo Agerri (2025). [Lemma Dilemma: On Lemma Generation Without Domain- or Language-Specific Training Data](https://arxiv.org/abs/2510.07434). In EMNLP Findings 2025.
-+ Blanca Calvo Figueras, Rodrigo Agerri (2025). [Benchmarking Critical Questions Generation: A Challenging Reasoning Task for Large Language Models](https://arxiv.org/abs/2505.11341). In EMNLP Findings 2025.
++ Olia Toporkov, Alan Akbik and Rodrigo Agerri (2025). [Lemma Dilemma: On Lemma Generation Without Domain- or Language-Specific Training Data](https://aclanthology.org/2025.findings-emnlp.988/). In EMNLP Findings 2025.
++ Blanca Calvo Figueras, Rodrigo Agerri (2025). [Benchmarking Critical Questions Generation: A Challenging Reasoning Task for Large Language Models](https://aclanthology.org/2025.findings-emnlp.302/). In EMNLP Findings 2025.
++ Álvaro Rodrigo, Sergio Moreno-Álvarez, Alberto Pérez, Anselmo Peñas, Rodrigo Agerri, Javier Fruns-Jiménez, Inés Soria-Pastor (2025). [Overview of PROFE at IberLEF 2025: Language Proficiency Evaluation](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6770). In [Procesamiento del Lenguaje Natural](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/issue/view/300), 75, 487-497.
 + Calvo Figueras, Blanca, Eneko Sagarzazu, Julen Etxaniz, Jeremy Barnes, Pablo Gamallo, Iria De Dios Flores, and Rodrigo Agerri (2025). [Truth Knows No Language: Evaluating Truthfulness Beyond English.](https://aclanthology.org/2025.acl-long.1507/). In ACL 2025.
 + Sanchez-Bayona, Elisa, Rodrigo Agerri (2025). [Metaphor and Large Language Models: When Surface Features Matter More than Deep Understanding](https://aclanthology.org/2025.findings-acl.898/). In ACL Findings.
 + Yeginbergen, Anar, Maite Oronoz, and Rodrigo Agerri (2025). [Dynamic Knowledge Integration for Evidence-Driven Counter-Argument Generation with Large Language Models.](https://aclanthology.org/2025.findings-acl.1161/) In ACL Findings 2025.
