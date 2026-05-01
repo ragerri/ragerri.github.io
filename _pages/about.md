@@ -16,11 +16,11 @@ Currently my research is focused on Computational Semantics and Information Extr
 
 + **New paper** at [NPJ Digital Publish Health](https://www.nature.com/npjdigipubhealth/): **Cross-lingual Transfer with Multilingual Language Models for Influenza-Like-Illness Detection in Social Media Texts**
 
-+ **[I am a member of ELLIS]**(https://ellis.eu/person/rodrigo-agerri) - an European AI network of Excellence
++ **[I am a member of ELLIS](https://ellis.eu/person/rodrigo-agerri)** - an European AI network of Excellence
 
 + We will be presenting [CRITICS](https://www.hitz.eus/critics/)  at [EAMT 2026](https://eamt2026.org/)
 
-+ **New CHIST-ERA project: [CRITICS -  Critical Science Without Borders: LLMs for Translation of Scientific Knowledge in Multilingual Contexts]**(https://www.hitz.eus/critics/) 
++ **New CHIST-ERA project:[CRITICS -  Critical Science Without Borders: LLMs for Translation of Scientific Knowledge in Multilingual Contexts](https://www.hitz.eus/critics/)** 
 
 + **New Computational Linguistics paper** on [Meta4XNLI: A Cross-lingual Parallel Corpus for Metaphor Detection and Interpretation](https://doi.org/10.1162/COLI.a.20)
 
