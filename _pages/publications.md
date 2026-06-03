@@ -15,8 +15,8 @@ redirect_from:
 
 ## 2026
 
++ Mishra, N., Ballester, J. & Agerri, R. Cross-lingual transfer with multilingual language models for influenza-like-illness detection in social media texts. npj Digit. Public Health 1, 16 (2026). [https://doi.org/10.1038/s44482-026-00020-y](https://doi.org/10.1038/s44482-026-00020-y).
 + Sanchez-Bayona, Elisa and Rodrigo Agerri (2025). [Meta4XNLI: A Cross-lingual Parallel Corpus for Metaphor Detection and Interpretation](https://doi.org/10.1162/COLI.a.20). In [Computational Linguistics](https://direct.mit.edu/coli) (MIT Press).
-+ Niti Mishra, Joan Ballester, Rodrigo Agerri (2026). Cross-lingual Transfer with Multilingual Language Models for Influenza-Like-Illness Detection in Social Media Texts. In [NPJ Digital Public Health](https://www.nature.com/npjdigipubhealth/).
 + Jaione Bengoetxea, Itziar Gonzalez-Dios, Rodrigo Agerri (2026). [Physical Commonsense Reasoning for Lower-Resourced Languages and Dialects: a Study on Basque](https://arxiv.org/abs/2602.14812). In LREC 2026.
 + Nagore Bravo, Jaione Bengoetxea, Iker Garcia-Ferro, Alba Bonet-Jover, Estela Saquete, Rodrigo Agerri (2026). [FactOReS: Fact-checking with an Evidence-based Open Resource in Spanish](). In LREC 2026.
 + Alejandro Benito-Santos, Roser Morante, Adrián Ghajari, Iker García-Ferrero, Robiert Sepúlveda-Torres, German Rigau, Rodrigo Agerri, Juan Pablo Consuegra-Ayala, Ernesto L Estevanell-Valladares, Fabio Yáñez-Romero, Miquel Canal-Esteve, Yoan Gutiérrez, Rafael Muñoz-Guillena, Manuel Palomar, Eva Sánchez Salido, Guillermo Marco, Andrés Fernández García, Víctor Fresno, Enrique Amigó, Laura Plaza, Jorge Carrillo-de-Albornoz, Miguel Lucas, Julio Gonzalo (2026). [Discriminative Benchmarking of Spanish Language Models: Findings from the ODESIA Challenge 2024](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6841). In [Procesamiento del Lenguaje Natural](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/issue/view/303), 76, 225-238. 
