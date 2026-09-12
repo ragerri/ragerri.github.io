@@ -32,6 +32,8 @@ I teach Natural Language Processing at undergraduate, master’s, and doctoral l
 
 + **New Computational Linguistics paper** on [Meta4XNLI: A Cross-lingual Parallel Corpus for Metaphor Detection and Interpretation](https://doi.org/10.1162/COLI.a.20)
 
+* [**Checkout our Catalogue on Basque Dialectal Resources!!**](https://aclanthology.org/2026.dialres-1.16/). Published at [DialRes 2026 Workshop](https://aclanthology.org/volumes/2026.dialres-1/)
+
 + **Check-out our 2 LREC accepted papers** [https://ragerri.github.io/publications/](https://ragerri.github.io/publications/)
 
 + **Winners of the Odesia challenge on Discriminative Benchmarking of Spanish Language Models!!** [overview paper](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6841) 
