@@ -16,6 +16,12 @@ I teach Natural Language Processing at undergraduate, master’s, and doctoral l
 
 ## Latest News
 
++ We will be presenting [CRITICS](https://www.hitz.eus/critics)  at [SEPLN 2026: 42nd International Conference of the Spanish Society for Natural Language Processing, León, Spain, 22-25 September 2026.](https://sepln2026.org/).
+
++  **2 papers accepted at EMNLP Findings 2026** check them out in  [https://ragerri.github.io/publications/](https://ragerri.github.io/publications/).
+
++  We presented an [ACL 2026 tutorial on the Interplay between Metaphor and NLP](https://aclanthology.org/2026.acl-tutorials.6/).
+
 + **New paper** at [NPJ Digital Publish Health](https://www.nature.com/npjdigipubhealth/): **Cross-lingual Transfer with Multilingual Language Models for Influenza-Like-Illness Detection in Social Media Texts**
 
 + **I am a member** of [ELLIS](https://ellis.eu/person/rodrigo-agerri) - an European AI network of Excellence
@@ -26,7 +32,7 @@ I teach Natural Language Processing at undergraduate, master’s, and doctoral l
 
 + **New Computational Linguistics paper** on [Meta4XNLI: A Cross-lingual Parallel Corpus for Metaphor Detection and Interpretation](https://doi.org/10.1162/COLI.a.20)
 
-+ **Check-out of 2 LREC accepted papers** [https://ragerri.github.io/publications/](https://ragerri.github.io/publications/)
++ **Check-out our 2 LREC accepted papers** [https://ragerri.github.io/publications/](https://ragerri.github.io/publications/)
 
 + **Winners of the Odesia challenge on Discriminative Benchmarking of Spanish Language Models!!** [overview paper](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6841) 
 
