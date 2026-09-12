@@ -16,8 +16,8 @@ I teach Natural Language Processing at undergraduate, master’s, and doctoral l
 
 ## Latest News
 
++ I am Senior Area Chair at [NAACL 2027](https://2027.naacl.org/).
 + We will be presenting [CRITICS](https://www.hitz.eus/critics)  at [SEPLN 2026: 42nd International Conference of the Spanish Society for Natural Language Processing, León, Spain, 22-25 September 2026.](https://sepln2026.org/).
-
 +  **2 papers accepted at EMNLP Findings 2026** check them out in  [https://ragerri.github.io/publications/](https://ragerri.github.io/publications/).
 
 +  We presented an [ACL 2026 tutorial on the Interplay between Metaphor and NLP](https://aclanthology.org/2026.acl-tutorials.6/).
